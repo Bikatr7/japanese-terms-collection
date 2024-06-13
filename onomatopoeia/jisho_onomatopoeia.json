@@ -1,0 +1,4974 @@
+[
+    {
+        "japanese": "屡々",
+        "english": "often; again and again; frequently; repeatedly"
+    },
+    {
+        "japanese": "屹度",
+        "english": "surely; undoubtedly; almost certainly; most likely (e.g. 90 percent)"
+    },
+    {
+        "japanese": "確り",
+        "english": "tightly (holding on); firmly; securely"
+    },
+    {
+        "japanese": "凝乎と",
+        "english": "motionlessly (e.g. stand, wait); (be) still"
+    },
+    {
+        "japanese": "苛々",
+        "english": "to get irritated; to get annoyed; to be on the edge; to fret; to lose patience"
+    },
+    {
+        "japanese": "沁み沁み",
+        "english": "keenly; deeply; fully; heartily; seriously; earnestly"
+    },
+    {
+        "japanese": "もっと",
+        "english": "(some) more; even more; longer; further"
+    },
+    {
+        "japanese": "ゆっくり",
+        "english": "slowly; unhurriedly; without haste; leisurely; at one's leisure"
+    },
+    {
+        "japanese": "はっきり",
+        "english": "clearly; plainly; distinctly"
+    },
+    {
+        "japanese": "すっかり",
+        "english": "all; completely; totally; entirely; thoroughly"
+    },
+    {
+        "japanese": "漸と",
+        "english": "at last; finally"
+    },
+    {
+        "japanese": "そろそろ",
+        "english": "soon; before long; any time now; momentarily"
+    },
+    {
+        "japanese": "どんどん",
+        "english": "drumming (noise); beating; pounding; banging; booming; stamping"
+    },
+    {
+        "japanese": "すっと",
+        "english": "straight; quickly; directly; all of a sudden"
+    },
+    {
+        "japanese": "がっかり",
+        "english": "to be disappointed; to be dejected; to be downhearted; to be discouraged; to be disheartened; to lose heart; to feel let down"
+    },
+    {
+        "japanese": "きちんと",
+        "english": "properly; accurately; exactly; precisely; regularly"
+    },
+    {
+        "japanese": "ちゃんと",
+        "english": "diligently; seriously; earnestly; reliably; steadily; legitimately"
+    },
+    {
+        "japanese": "ぐっすり",
+        "english": "soundly (sleeping); fast (asleep)"
+    },
+    {
+        "japanese": "ぴったり",
+        "english": "tightly; closely"
+    },
+    {
+        "japanese": "さっぱり",
+        "english": "feeling refreshed; feeling relieved"
+    },
+    {
+        "japanese": "ざっと",
+        "english": "roughly; approximately; round about; more or less"
+    },
+    {
+        "japanese": "たっぷり",
+        "english": "plentifully; amply; abundantly; copiously; generously; fully; a lot"
+    },
+    {
+        "japanese": "ぼんやり",
+        "english": "dimly; faintly; indistinctly; vaguely"
+    },
+    {
+        "japanese": "のんびり",
+        "english": "at leisure; in a relaxed manner; in a carefree manner; quietly; peacefully"
+    },
+    {
+        "japanese": "そっくり",
+        "english": "all; altogether; entirely; completely"
+    },
+    {
+        "japanese": "にっこり",
+        "english": "sweetly (smiling); broadly (grinning)"
+    },
+    {
+        "japanese": "そっと",
+        "english": "softly; gently; quietly; lightly"
+    },
+    {
+        "japanese": "うっかり",
+        "english": "carelessly; thoughtlessly; inadvertently"
+    },
+    {
+        "japanese": "ドキドキ",
+        "english": "thump-thump; bang-bang; pit-a-pat; pitapat; pitter-patter"
+    },
+    {
+        "japanese": "ぶつぶつ",
+        "english": "grunt; grumble; complaint; mutter"
+    },
+    {
+        "japanese": "こっそり",
+        "english": "stealthily; secretly; in secret"
+    },
+    {
+        "japanese": "ニコニコ",
+        "english": "with a friendly grin; smilingly"
+    },
+    {
+        "japanese": "まあまあ",
+        "english": "so-so; passable; not (so) bad; reasonable"
+    },
+    {
+        "japanese": "すっきり",
+        "english": "refreshingly; with a feeling of relief; pleasantly; (a weight) off one's shoulder"
+    },
+    {
+        "japanese": "ピカピカ",
+        "english": "with a glitter; with a sparkle"
+    },
+    {
+        "japanese": "ぎっしり",
+        "english": "tightly (packed); densely; closely; crammed"
+    },
+    {
+        "japanese": "ふわふわ",
+        "english": "lightly (floating, drifting, etc.); buoyantly"
+    },
+    {
+        "japanese": "うろうろ",
+        "english": "restlessly; aimlessly; without purpose"
+    },
+    {
+        "japanese": "のろのろ",
+        "english": "slowly; sluggishly"
+    },
+    {
+        "japanese": "どっと",
+        "english": "bursting out (laughter); breaking out (applause); roaring; whooping"
+    },
+    {
+        "japanese": "せっせと",
+        "english": "diligently; assiduously; industriously; beavering away"
+    },
+    {
+        "japanese": "ずらり",
+        "english": "in a row; in a line"
+    },
+    {
+        "japanese": "熟",
+        "english": "deeply; keenly; severely; completely; utterly"
+    },
+    {
+        "japanese": "きっぱり",
+        "english": "clearly; plainly; distinctly; decisively; flatly; definitely; resolutely"
+    },
+    {
+        "japanese": "ぶらぶら",
+        "english": "dangling; swaying; swinging"
+    },
+    {
+        "japanese": "じっくり",
+        "english": "(slowly and) carefully; without haste; thoroughly; deliberately; closely; meticulously"
+    },
+    {
+        "japanese": "愚図愚図",
+        "english": "slowly; tardily; dawdling; lingering; hesitantly"
+    },
+    {
+        "japanese": "あっさり",
+        "english": "easily; readily; quickly; flatly (refuse)"
+    },
+    {
+        "japanese": "だぶだぶ",
+        "english": "loose (of clothing); baggy"
+    },
+    {
+        "japanese": "ズバリ",
+        "english": "decisively; decidedly; boldly; once and for all; unreservedly; frankly"
+    },
+    {
+        "japanese": "オドオド",
+        "english": "timidly; nervously; hesitantly; trembling (with fear); fearfully; anxiously"
+    },
+    {
+        "japanese": "びっしょり",
+        "english": "wet through; drenched"
+    },
+    {
+        "japanese": "粘々",
+        "english": "sticky; gluey; gummy; glutinous; viscous; gooey; greasy"
+    },
+    {
+        "japanese": "ペコペコ",
+        "english": "very hungry; starving; famished"
+    },
+    {
+        "japanese": "がっちり",
+        "english": "solid; robust; well-built"
+    },
+    {
+        "japanese": "きっちり",
+        "english": "exactly; precisely; punctually; on the dot"
+    },
+    {
+        "japanese": "ずるずる",
+        "english": "(dragging a large or heavy item) slowly"
+    },
+    {
+        "japanese": "がっしり",
+        "english": "firmly; solidly; sturdily; strongly; toughly"
+    },
+    {
+        "japanese": "あやふや",
+        "english": "uncertain; indefinite; vague; ambiguous; equivocal; dubious; doubtful; non-committal"
+    },
+    {
+        "japanese": "あべこべ",
+        "english": "contrary; opposite; inverse; reverse; back-to-front"
+    },
+    {
+        "japanese": "うんざり",
+        "english": "tedious; boring; being fed up with"
+    },
+    {
+        "japanese": "ほっと",
+        "english": "with a feeling of relief; with a sigh of relief"
+    },
+    {
+        "japanese": "ちらっと",
+        "english": "at a glance; by accident"
+    },
+    {
+        "japanese": "がっくり",
+        "english": "heartbroken; crestfallen; dejected; disappointed"
+    },
+    {
+        "japanese": "くっきり",
+        "english": "clearly (standing out); distinctly; sharply; boldly; in sharp relief"
+    },
+    {
+        "japanese": "吃驚",
+        "english": "to be surprised; to be amazed; to be frightened; to be astonished; to get startled; to jump"
+    },
+    {
+        "japanese": "ガンガン",
+        "english": "clanging; banging; booming; loudly"
+    },
+    {
+        "japanese": "ピリピリ",
+        "english": "with a sting; with a tingle; with a burn; smartingly"
+    },
+    {
+        "japanese": "バタン",
+        "english": "bang; slam; thud; crash"
+    },
+    {
+        "japanese": "しゃぶしゃぶ",
+        "english": "shabu-shabu; hot pot dish where thinly sliced meat is boiled quickly and then dipped in sauce"
+    },
+    {
+        "japanese": "ばったり",
+        "english": "with a clash; with a thud; with a bang; with a flop; plump"
+    },
+    {
+        "japanese": "うんと",
+        "english": "a great deal; very much; a lot"
+    },
+    {
+        "japanese": "しーん",
+        "english": "silently (as the grave); quietly (as in death)"
+    },
+    {
+        "japanese": "はきはき",
+        "english": "briskly; smartly; promptly; clearly; lucidly"
+    },
+    {
+        "japanese": "きっかり",
+        "english": "exactly; just; precisely"
+    },
+    {
+        "japanese": "蒸し蒸し",
+        "english": "hot and humid; muggy; sultry"
+    },
+    {
+        "japanese": "群々",
+        "english": "irresistibly; suddenly"
+    },
+    {
+        "japanese": "房房",
+        "english": "in tufts; tufty; bushy; thick; luxuriant"
+    },
+    {
+        "japanese": "戛戛",
+        "english": "clicking; clopping; clacking"
+    },
+    {
+        "japanese": "ぐっと",
+        "english": "suddenly; at once; in one go; with a jerk; with a gulp"
+    },
+    {
+        "japanese": "ちやほや",
+        "english": "to make a fuss over; to pamper; to spoil; to indulge; to flatter (with attention)"
+    },
+    {
+        "japanese": "すんなり",
+        "english": "slim; slender; lithe; supple"
+    },
+    {
+        "japanese": "房房",
+        "english": "in tufts; tufty; bushy; thick; luxuriant"
+    },
+    {
+        "japanese": "滑々",
+        "english": "smooth (skin, stone, etc.); sleek; velvety; silky"
+    },
+    {
+        "japanese": "我利我利",
+        "english": "focusing on only one thing; obsessively; intensely"
+    },
+    {
+        "japanese": "わくわく",
+        "english": "to be excited; to be nervous; to be thrilled"
+    },
+    {
+        "japanese": "くよくよ",
+        "english": "to fret (over); to brood (about); to mope; to worry"
+    },
+    {
+        "japanese": "くたくた",
+        "english": "exhausted; worn out; dead tired"
+    },
+    {
+        "japanese": "さっさと",
+        "english": "quickly; promptly; immediately; without delay; briskly; hurriedly; hastily"
+    },
+    {
+        "japanese": "ぐるぐる",
+        "english": "(turning) round and round; in circles"
+    },
+    {
+        "japanese": "ガタガタ",
+        "english": "rattling; clattering"
+    },
+    {
+        "japanese": "ヘトヘト",
+        "english": "completely exhausted; dead tired; knackered"
+    },
+    {
+        "japanese": "バラバラ",
+        "english": "scattered; disperse; loose; disconnected; in pieces; in drops; rustling"
+    },
+    {
+        "japanese": "ぎょっと",
+        "english": "being startled"
+    },
+    {
+        "japanese": "キラキラ",
+        "english": "glittering; sparkling; glistening; twinkling"
+    },
+    {
+        "japanese": "パッと",
+        "english": "suddenly; in a flash; quickly; rapidly; swiftly; nimbly"
+    },
+    {
+        "japanese": "スラスラ",
+        "english": "smoothly; easily; readily"
+    },
+    {
+        "japanese": "限り限り",
+        "english": "just barely; only just; at the very limit; at the last moment"
+    },
+    {
+        "japanese": "うとうと",
+        "english": "falling into a doze; dozing off; nodding off"
+    },
+    {
+        "japanese": "ボロボロ",
+        "english": "worn-out; ragged; tattered; battered; scruffy"
+    },
+    {
+        "japanese": "そわそわ",
+        "english": "restlessly; nervously; uneasily; in a fidget"
+    },
+    {
+        "japanese": "ビクビク",
+        "english": "being afraid of; being fearful; being timid; being nervous"
+    },
+    {
+        "japanese": "ふらふら",
+        "english": "unsteadily (e.g. on one's feet); shakily; staggering; tottering; reeling; dizzily; giddily"
+    },
+    {
+        "japanese": "うずうず",
+        "english": "itching to do something; impatient; sorely tempted; eager"
+    },
+    {
+        "japanese": "ザラザラ",
+        "english": "rough (touch, voice, etc.); coarse; gritty; sandy; granular"
+    },
+    {
+        "japanese": "ギラギラ",
+        "english": "glaringly; dazzlingly; blazingly"
+    },
+    {
+        "japanese": "だらだら",
+        "english": "in drops; dripping; trickling; streaming; flowing"
+    },
+    {
+        "japanese": "ゴロゴロ",
+        "english": "rumbling (of thunder, one's stomach, etc.); grumbling; growling; purring"
+    },
+    {
+        "japanese": "くるくる",
+        "english": "whirling; revolving; spinning; going round and round"
+    },
+    {
+        "japanese": "とんとん",
+        "english": "with a tap; with a knock; with a knocking sound; with a rap-tap"
+    },
+    {
+        "japanese": "くどくど",
+        "english": "tediously (explain, complain, etc.); repeatedly; persistently; insistently; ad nauseam; at great length"
+    },
+    {
+        "japanese": "ムカムカ",
+        "english": "feeling sick; feeling queasy; feeling nauseated"
+    },
+    {
+        "japanese": "コツコツ",
+        "english": "steadily; unflaggingly; untiringly; laboriously; diligently"
+    },
+    {
+        "japanese": "グラグラ",
+        "english": "wobbling; tottering; shaking; unstably; unsteadily"
+    },
+    {
+        "japanese": "カチカチ",
+        "english": "ticktock"
+    },
+    {
+        "japanese": "ズキズキ",
+        "english": "throbbingly (of pain)"
+    },
+    {
+        "japanese": "ベタベタ",
+        "english": "sticky"
+    },
+    {
+        "japanese": "カッと",
+        "english": "flaring up; burning hotly; suddenly becoming bright"
+    },
+    {
+        "japanese": "メキメキ",
+        "english": "remarkably; markedly; rapidly"
+    },
+    {
+        "japanese": "じめじめ",
+        "english": "damp; humid; wet; clammy; muggy; soggy"
+    },
+    {
+        "japanese": "ひっそり",
+        "english": "quiet (place); still; silent; deserted"
+    },
+    {
+        "japanese": "びしょびしょ",
+        "english": "soaked; drenched; sopping; soppy; wet"
+    },
+    {
+        "japanese": "ひらひら",
+        "english": "fluttering; flapping; waving"
+    },
+    {
+        "japanese": "ちょっぴり",
+        "english": "a tiny bit; just a smidgin; a wee bit; very slightly"
+    },
+    {
+        "japanese": "さらさら",
+        "english": "with a rustling sound"
+    },
+    {
+        "japanese": "ニヤニヤ",
+        "english": "grinning; smirking"
+    },
+    {
+        "japanese": "ペラペラ",
+        "english": "fluently (speaking a foreign language)"
+    },
+    {
+        "japanese": "くしゃくしゃ",
+        "english": "crumpled; rumpled; wrinkled; creased; tousled; disheveled; dishevelled"
+    },
+    {
+        "japanese": "ビリビリ",
+        "english": "(tear) to pieces; (rip) apart; (rip) up; (rip) open"
+    },
+    {
+        "japanese": "ぴんぴん",
+        "english": "lively; energetic; full of life"
+    },
+    {
+        "japanese": "プンプン",
+        "english": "(smelling) strongly; pungently"
+    },
+    {
+        "japanese": "ぽかん",
+        "english": "vacantly; blankly; absentmindedly"
+    },
+    {
+        "japanese": "ヒソヒソ",
+        "english": "in a whisper; in a low voice; in undertones"
+    },
+    {
+        "japanese": "おろおろ",
+        "english": "in confusion; in a fluster; in bewilderment; in a dither; in a panic; all shook up; helplessly"
+    },
+    {
+        "japanese": "ポタポタ",
+        "english": "dripping; trickling; drop by drop; in drops"
+    },
+    {
+        "japanese": "ちらちら",
+        "english": "falling lightly (e.g. snow, petals, confetti); fluttering"
+    },
+    {
+        "japanese": "キョロキョロ",
+        "english": "(looking around) restlessly; (looking) all around; goggling"
+    },
+    {
+        "japanese": "ぶるぶる",
+        "english": "trembling (with fear, anger, etc.); shivering (with cold); shaking; quivering"
+    },
+    {
+        "japanese": "コロコロ",
+        "english": "lightly rolling (of a small and round thing)"
+    },
+    {
+        "japanese": "ドキッと",
+        "english": "being startled; getting a shock"
+    },
+    {
+        "japanese": "つるつる",
+        "english": "smooth; shiny; slick"
+    },
+    {
+        "japanese": "たらたら",
+        "english": "drop-by-drop; dripping; dribbling; in a trickle"
+    },
+    {
+        "japanese": "じゃぶじゃぶ",
+        "english": "splashing (water); splashing about; with a splash"
+    },
+    {
+        "japanese": "ぎゅうぎゅう",
+        "english": "creaking; squeaking"
+    },
+    {
+        "japanese": "どしどし",
+        "english": "rapidly; one after the other"
+    },
+    {
+        "japanese": "よろよろ",
+        "english": "tottering; staggering; faltering; reeling"
+    },
+    {
+        "japanese": "ぞろぞろ",
+        "english": "in a crowd; in droves; in a stream; in succession"
+    },
+    {
+        "japanese": "こそこそ",
+        "english": "sneakily; secretly; stealthily; on the sly"
+    },
+    {
+        "japanese": "しょんぼり",
+        "english": "downheartedly; dejectedly; dispiritedly; despondently"
+    },
+    {
+        "japanese": "いそいそ",
+        "english": "cheerfully; joyously; joyfully; happily; lightheartedly; excitedly; eagerly"
+    },
+    {
+        "japanese": "てくてく",
+        "english": "(walking a long distance) at a steady pace; intently; earnestly; single-mindedly; trudgingly; ploddingly"
+    },
+    {
+        "japanese": "刻々",
+        "english": "notches; serration; indentation; jaggies (stair-step artifacts in computer images)"
+    },
+    {
+        "japanese": "ぽかぽか",
+        "english": "pleasantly warm; nice and warm"
+    },
+    {
+        "japanese": "ぐったり",
+        "english": "limply; wearily; listlessly; languidly; exhaustedly; unenergetically"
+    },
+    {
+        "japanese": "がぶがぶ",
+        "english": "gulping down (a drink); guzzling; chugging"
+    },
+    {
+        "japanese": "がさがさ",
+        "english": "rustling"
+    },
+    {
+        "japanese": "せかせか",
+        "english": "restlessly; hurriedly; agitatedly; fidgeting"
+    },
+    {
+        "japanese": "むっつり",
+        "english": "sullenly; taciturnly; morosely; gloomily; silently"
+    },
+    {
+        "japanese": "びっしり",
+        "english": "closely (packed, lined up, etc.); tightly; densely"
+    },
+    {
+        "japanese": "ドタバタ",
+        "english": "noisily (running around); with heavy feet"
+    },
+    {
+        "japanese": "よろよろ",
+        "english": "tottering; staggering; faltering; reeling"
+    },
+    {
+        "japanese": "ぞろぞろ",
+        "english": "in a crowd; in droves; in a stream; in succession"
+    },
+    {
+        "japanese": "っぽい",
+        "english": "-ish; -like"
+    },
+    {
+        "japanese": "チラリ",
+        "english": "fleeting (glimpse, glance, etc.)"
+    },
+    {
+        "japanese": "ゆったり",
+        "english": "comfortable; easy; calm; relaxed"
+    },
+    {
+        "japanese": "ぐるっと",
+        "english": "turning round; going around; turning about; rotating"
+    },
+    {
+        "japanese": "ひょっとすると",
+        "english": "perhaps; maybe; possibly"
+    },
+    {
+        "japanese": "ぼーっと",
+        "english": "in a daze; absent-mindedly; vacantly; abstractedly; blankly; idly"
+    },
+    {
+        "japanese": "ぞくぞく",
+        "english": "shivering; feeling chilly"
+    },
+    {
+        "japanese": "おいおい",
+        "english": "hey!; wait a minute!; whoa!"
+    },
+    {
+        "japanese": "にゃー",
+        "english": "meow; miaow"
+    },
+    {
+        "japanese": "ちんちん",
+        "english": "penis"
+    },
+    {
+        "japanese": "すっぽり",
+        "english": "entirely; completely"
+    },
+    {
+        "japanese": "ガシガシ",
+        "english": "boisterously; roughly; briskly"
+    },
+    {
+        "japanese": "ふんわり",
+        "english": "gently; airily; fluffily"
+    },
+    {
+        "japanese": "ほんのり",
+        "english": "slightly; faintly"
+    },
+    {
+        "japanese": "バタバタ",
+        "english": "flapping; rattling; fluttering"
+    },
+    {
+        "japanese": "キーン",
+        "english": "with a screech; with a whine; with a shrill; with a ringing (in the ears)"
+    },
+    {
+        "japanese": "まごまご",
+        "english": "confused; flustered; at a loss"
+    },
+    {
+        "japanese": "のらくら",
+        "english": "idly; lazily; aimlessly"
+    },
+    {
+        "japanese": "ゲップ",
+        "english": "belch; burp; eructation"
+    },
+    {
+        "japanese": "泥々",
+        "english": "viscous; mushy; pulpy; thick; slushy; syrupy; sticky"
+    },
+    {
+        "japanese": "揺ら揺ら",
+        "english": "swaying; swinging; rocking; shaking; wavering; flickering"
+    },
+    {
+        "japanese": "ぶかぶか",
+        "english": "too large (clothing); baggy; loose-fitting"
+    },
+    {
+        "japanese": "きちっと",
+        "english": "exactly; perfectly"
+    },
+    {
+        "japanese": "カリカリ",
+        "english": "crisp (e.g. potato chip, fried fish, etc.); crunchy"
+    },
+    {
+        "japanese": "チン",
+        "english": "ding (of a bell); bing; ting; tinkle; ring"
+    },
+    {
+        "japanese": "ぱらぱら",
+        "english": "sprinkling (of rain, salt, etc.); pattering"
+    },
+    {
+        "japanese": "わっと",
+        "english": "suddenly and in a loud voice (e.g. sobbing)"
+    },
+    {
+        "japanese": "ひょっこり",
+        "english": "all of a sudden; suddenly; by chance; unexpectedly"
+    },
+    {
+        "japanese": "ぞっと",
+        "english": "shuddering; shivering; trembling; being horrified; being disgusted"
+    },
+    {
+        "japanese": "ほっそり",
+        "english": "slim; slender; slight; delicate"
+    },
+    {
+        "japanese": "まんまと",
+        "english": "successfully; fairly; artfully; nicely; completely; thoroughly"
+    },
+    {
+        "japanese": "ヒリヒリ",
+        "english": "stinging (pain); smarting; tingling"
+    },
+    {
+        "japanese": "ゴタゴタ",
+        "english": "trouble; difficulties; dispute; quarrel; discord; dissension"
+    },
+    {
+        "japanese": "うようよ",
+        "english": "in swarms; crawling with"
+    },
+    {
+        "japanese": "ガツガツ",
+        "english": "hungrily; voraciously; ravenously"
+    },
+    {
+        "japanese": "そこそこ",
+        "english": "reasonably; fairly; all right; moderate"
+    },
+    {
+        "japanese": "ぐいっと",
+        "english": "suddenly and forcefully (e.g. jerk, poke, shove)"
+    },
+    {
+        "japanese": "キーキー",
+        "english": "with a (sharp) creak; with a squeak; with a screech"
+    },
+    {
+        "japanese": "どん",
+        "english": "bang; bam; boom; thud; thump; crash"
+    },
+    {
+        "japanese": "ガミガミ",
+        "english": "nagging; griping"
+    },
+    {
+        "japanese": "ドカン",
+        "english": "with a bang"
+    },
+    {
+        "japanese": "ガチャン",
+        "english": "(with a) slamming noise (door, telephone receiver); (with a) banging noise; (with a) clash (broken dish); (with a) clank; (with a) bang"
+    },
+    {
+        "japanese": "ポツリ",
+        "english": "isolated; standing alone"
+    },
+    {
+        "japanese": "ごちゃごちゃ",
+        "english": "messy; confused; chaotic; disorderly; mixed-up; jumbled up"
+    },
+    {
+        "japanese": "もじもじ",
+        "english": "bashfully; hesitantly; fidgety; restlessly; squirming; wriggling; haltingly"
+    },
+    {
+        "japanese": "どぎまぎ",
+        "english": "flurried; flustered; upset; nervous; embarrassed"
+    },
+    {
+        "japanese": "かっか",
+        "english": "to burn hotly; to burn redly"
+    },
+    {
+        "japanese": "じろじろ",
+        "english": "staringly; scrutinizing; scrutinising"
+    },
+    {
+        "japanese": "こってり",
+        "english": "thickly; heavily; richly"
+    },
+    {
+        "japanese": "すらっと",
+        "english": "slender; slim"
+    },
+    {
+        "japanese": "こんがり",
+        "english": "well-cooked; well-done; browned"
+    },
+    {
+        "japanese": "あたふた",
+        "english": "in a hurry; hurriedly; hastily; helter-skelter; hurry-scurry; in a panic"
+    },
+    {
+        "japanese": "ガラガラ",
+        "english": "with a clatter; with a rattle"
+    },
+    {
+        "japanese": "やきもき",
+        "english": "anxiously; impatiently; worriedly; fretting; getting worked up"
+    },
+    {
+        "japanese": "ドスン",
+        "english": "bam; whomp; thump"
+    },
+    {
+        "japanese": "クラクラ",
+        "english": "dizzy; giddy"
+    },
+    {
+        "japanese": "ワンワン",
+        "english": "bow-wow; woof; arf; barking"
+    },
+    {
+        "japanese": "うふふ",
+        "english": "tee-hee"
+    },
+    {
+        "japanese": "どさっと",
+        "english": "with a thud"
+    },
+    {
+        "japanese": "とことん",
+        "english": "the very end; finish"
+    },
+    {
+        "japanese": "チカチカ",
+        "english": "flickering; flashing on and off; twinkling; glittering"
+    },
+    {
+        "japanese": "しんと",
+        "english": "silent (as the grave); deadly silent; deathly quiet"
+    },
+    {
+        "japanese": "ちんたら",
+        "english": "dilatorily; sluggishly"
+    },
+    {
+        "japanese": "ゼーゼー",
+        "english": "gasping for breath; puffing and panting; wheezing"
+    },
+    {
+        "japanese": "すらり",
+        "english": "long, slender and well-proportioned"
+    },
+    {
+        "japanese": "うふふ",
+        "english": "tee-hee"
+    },
+    {
+        "japanese": "プチッ",
+        "english": "with a click (of a button or switch)"
+    },
+    {
+        "japanese": "ぺったんこ",
+        "english": "crushed flat; flattened; squashed; flat-topped"
+    },
+    {
+        "japanese": "こっくり",
+        "english": "nodding (in agreement, with approval, etc.)"
+    },
+    {
+        "japanese": "ぼそぼそ",
+        "english": "in a subdued voice; in undertones; in a whisper; in a mumble; in a murmur"
+    },
+    {
+        "japanese": "どんより",
+        "english": "dark; gloomy; overcast; gray"
+    },
+    {
+        "japanese": "有り有り",
+        "english": "clearly; distinctly; vividly"
+    },
+    {
+        "japanese": "のらりくらり",
+        "english": "idly; lazily; aimlessly"
+    },
+    {
+        "japanese": "ぼけっと",
+        "english": "absent-mindedly; idly; vacantly; doing nothing"
+    },
+    {
+        "japanese": "ベトベト",
+        "english": "sticky"
+    },
+    {
+        "japanese": "ギクリ",
+        "english": "(with a) start; fright; alarm"
+    },
+    {
+        "japanese": "ぽっかり",
+        "english": "lightly"
+    },
+    {
+        "japanese": "かっきり",
+        "english": "exactly; just; precisely"
+    },
+    {
+        "japanese": "ぼけっと",
+        "english": "absent-mindedly; idly; vacantly; doing nothing"
+    },
+    {
+        "japanese": "ツンと",
+        "english": "standoffishly; primly; prickly; irritably; aloofly"
+    },
+    {
+        "japanese": "のらりくらり",
+        "english": "idly; lazily; aimlessly"
+    },
+    {
+        "japanese": "ゴシゴシ",
+        "english": "scrubbing hard; scrubbing clean"
+    },
+    {
+        "japanese": "ザクザク",
+        "english": "walking on frost; crunching (e.g. on gravel)"
+    },
+    {
+        "japanese": "しっくり",
+        "english": "exactly; nicely; to a tee"
+    },
+    {
+        "japanese": "ぎゃあぎゃあ",
+        "english": "screaming; squawking; squealing"
+    },
+    {
+        "japanese": "じゃーん",
+        "english": "ta-dah!; ta-da!; voilà!"
+    },
+    {
+        "japanese": "カチン",
+        "english": "clink; clack"
+    },
+    {
+        "japanese": "カタカタ",
+        "english": "clattering; rattling"
+    },
+    {
+        "japanese": "ガクンガクン",
+        "english": "jerkingly"
+    },
+    {
+        "japanese": "ヘロヘロ",
+        "english": "completely exhausted; dog-tired; dreadfully weary; terribly frustrated; limp; weak; flimsy"
+    },
+    {
+        "japanese": "グーグー",
+        "english": "snoring"
+    },
+    {
+        "japanese": "グースカ",
+        "english": "soundly (of sleeping); (sleeping) like a log"
+    },
+    {
+        "japanese": "じりじり",
+        "english": "slowly (but steadily); gradually; bit-by-bit"
+    },
+    {
+        "japanese": "ざあっ",
+        "english": "sound of water"
+    },
+    {
+        "japanese": "ドシン",
+        "english": "plump; with a thud; heavily"
+    },
+    {
+        "japanese": "はあはあ",
+        "english": "gasp; pant"
+    },
+    {
+        "japanese": "ふっと",
+        "english": "with a whiff; with a puff"
+    },
+    {
+        "japanese": "ちょこっと",
+        "english": "a little; a bit; slightly"
+    },
+    {
+        "japanese": "グーグー",
+        "english": "snoring"
+    },
+    {
+        "japanese": "ふっと",
+        "english": "with a whiff; with a puff"
+    },
+    {
+        "japanese": "ガクンガクン",
+        "english": "jerkingly"
+    },
+    {
+        "japanese": "じゃーん",
+        "english": "ta-dah!; ta-da!; voilà!"
+    },
+    {
+        "japanese": "どっさり",
+        "english": "heaps; a lot; plenty; oodles"
+    },
+    {
+        "japanese": "ちんまり",
+        "english": "snugly; cosily; compactly"
+    },
+    {
+        "japanese": "ちょこっと",
+        "english": "a little; a bit; slightly"
+    },
+    {
+        "japanese": "ぼやっと",
+        "english": "absentmindedly; dazedly; vaguely"
+    },
+    {
+        "japanese": "ちょこちょこ",
+        "english": "toddling; with small, quick steps"
+    },
+    {
+        "japanese": "ヨレヨレ",
+        "english": "worn-out; shabby; seedy; wrinkled-up; threadbare"
+    },
+    {
+        "japanese": "ムズムズ",
+        "english": "to itch; to feel itchy; to feel creepy"
+    },
+    {
+        "japanese": "ガッポリ",
+        "english": "in large quantities"
+    },
+    {
+        "japanese": "ぽっかり",
+        "english": "lightly"
+    },
+    {
+        "japanese": "メラメラ",
+        "english": "flaring up; bursting into flames"
+    },
+    {
+        "japanese": "ポツリポツリ",
+        "english": "intermittently; bit by bit; little by little; by ones and twos"
+    },
+    {
+        "japanese": "ガクンと",
+        "english": "suddenly; with a jerk"
+    },
+    {
+        "japanese": "ぶんぶん",
+        "english": "buzz; hum"
+    },
+    {
+        "japanese": "こんもり",
+        "english": "thickly; densely; luxuriantly"
+    },
+    {
+        "japanese": "ごみごみ",
+        "english": "squalid; messy"
+    },
+    {
+        "japanese": "すくすく",
+        "english": "(growing) quickly (esp. children, plants); (developing) quickly; fast; rapidly"
+    },
+    {
+        "japanese": "ガッポリ",
+        "english": "in large quantities"
+    },
+    {
+        "japanese": "すくすく",
+        "english": "(growing) quickly (esp. children, plants); (developing) quickly; fast; rapidly"
+    },
+    {
+        "japanese": "つべこべ",
+        "english": "complaining; nitpicking"
+    },
+    {
+        "japanese": "どかどか",
+        "english": "noisily; with loud footsteps"
+    },
+    {
+        "japanese": "ぶんぶん",
+        "english": "buzz; hum"
+    },
+    {
+        "japanese": "もぐもぐ",
+        "english": "mumbling; chewing one's words"
+    },
+    {
+        "japanese": "ニヤリ",
+        "english": "meaningfully (smiling, grinning, etc.); suggestively; broadly; sneeringly"
+    },
+    {
+        "japanese": "ぷかぷか",
+        "english": "lightly (floating); buoyantly"
+    },
+    {
+        "japanese": "どたどた",
+        "english": "noisily (esp. the noise of heavy feet)"
+    },
+    {
+        "japanese": "しくしく",
+        "english": "weeping; sobbing; softly (crying)"
+    },
+    {
+        "japanese": "カツカツ",
+        "english": "barely; just; narrowly; with difficulty"
+    },
+    {
+        "japanese": "もたもた",
+        "english": "slowly; inefficiently; tardily; dawdling"
+    },
+    {
+        "japanese": "のうのう",
+        "english": "carefree; relaxed; comfortable; at one's ease"
+    },
+    {
+        "japanese": "うつらうつら",
+        "english": "drowsily; nodding off"
+    },
+    {
+        "japanese": "どやどや",
+        "english": "sound of many footsteps"
+    },
+    {
+        "japanese": "えへへ",
+        "english": "heh heh heh; tee-hee; giggle"
+    },
+    {
+        "japanese": "ぴょこん",
+        "english": "quickly, in a bouncing way (e.g. for a bow)"
+    },
+    {
+        "japanese": "ぽっくり",
+        "english": "(dying) suddenly"
+    },
+    {
+        "japanese": "かしゃっ",
+        "english": "with a click"
+    },
+    {
+        "japanese": "カチャカチャ",
+        "english": "clink; clatter; clang"
+    },
+    {
+        "japanese": "もたもた",
+        "english": "slowly; inefficiently; tardily; dawdling"
+    },
+    {
+        "japanese": "のうのう",
+        "english": "carefree; relaxed; comfortable; at one's ease"
+    },
+    {
+        "japanese": "うつらうつら",
+        "english": "drowsily; nodding off"
+    },
+    {
+        "japanese": "ぽっくり",
+        "english": "(dying) suddenly"
+    },
+    {
+        "japanese": "なみなみ",
+        "english": "(filled) to the brim"
+    },
+    {
+        "japanese": "ざっくり",
+        "english": "roughly; approximately; coarsely; loosely"
+    },
+    {
+        "japanese": "かしゃっ",
+        "english": "with a click"
+    },
+    {
+        "japanese": "カチャカチャ",
+        "english": "clink; clatter; clang"
+    },
+    {
+        "japanese": "かちり",
+        "english": "with a clink (click, clack)"
+    },
+    {
+        "japanese": "どさくさ",
+        "english": "confusion; bustle; turmoil; trouble"
+    },
+    {
+        "japanese": "しょぼん",
+        "english": "downheartedly; dejectedly; dispiritedly; despondently"
+    },
+    {
+        "japanese": "がぶり",
+        "english": "emphatically (bite, gulp, chew, etc.)"
+    },
+    {
+        "japanese": "どさどさ",
+        "english": "throwing down multiple objects in succession"
+    },
+    {
+        "japanese": "もじゃもじゃ",
+        "english": "tousled; shaggy (hair); scraggly (beard); dishevelled; disheveled; unkempt"
+    },
+    {
+        "japanese": "ギラッと",
+        "english": "dazzlingly"
+    },
+    {
+        "japanese": "クラッと",
+        "english": "dizzyingly"
+    },
+    {
+        "japanese": "ゴーっ",
+        "english": "roaringly; rumblingly"
+    },
+    {
+        "japanese": "スイスイ",
+        "english": "lightly and smoothly (of movements); swiftly; glidingly"
+    },
+    {
+        "japanese": "ピシャッと",
+        "english": "slapping; splatting"
+    },
+    {
+        "japanese": "ピリッと",
+        "english": "tingling; stinging; pungently"
+    },
+    {
+        "japanese": "どさくさ",
+        "english": "confusion; bustle; turmoil; trouble"
+    },
+    {
+        "japanese": "カツカツ",
+        "english": "barely; just; narrowly; with difficulty"
+    },
+    {
+        "japanese": "ぐちゃぐちゃ",
+        "english": "pulpy; soppy"
+    },
+    {
+        "japanese": "ざっくり",
+        "english": "roughly; approximately; coarsely; loosely"
+    },
+    {
+        "japanese": "しょぼん",
+        "english": "downheartedly; dejectedly; dispiritedly; despondently"
+    },
+    {
+        "japanese": "ちゃっかり",
+        "english": "shrewdly; smartly; calculatingly; astutely; cunningly"
+    },
+    {
+        "japanese": "うかうか",
+        "english": "carelessly; inattentively"
+    },
+    {
+        "japanese": "カーンカーン",
+        "english": "clanging; dong dong"
+    },
+    {
+        "japanese": "しゅんしゅん",
+        "english": "with a whistle (e.g. of a kettle)"
+    },
+    {
+        "japanese": "スイスイ",
+        "english": "lightly and smoothly (of movements); swiftly; glidingly"
+    },
+    {
+        "japanese": "がぶり",
+        "english": "emphatically (bite, gulp, chew, etc.)"
+    },
+    {
+        "japanese": "にたり",
+        "english": "smirkingly; smugly; broadly"
+    },
+    {
+        "japanese": "ガシャッ",
+        "english": "(with a) crack"
+    },
+    {
+        "japanese": "ドンパチ",
+        "english": "sound of pistol fire; sound of exploding gunpowder"
+    },
+    {
+        "japanese": "ひょいひょい",
+        "english": "lightly; nimbly; with agility"
+    },
+    {
+        "japanese": "サバサバ",
+        "english": "relieved; refreshed"
+    },
+    {
+        "japanese": "ガバガバ",
+        "english": "oversized (clothing); baggy"
+    },
+    {
+        "japanese": "どくどく",
+        "english": "gushingly; copiously; profusely; in a steady stream"
+    },
+    {
+        "japanese": "ぐいぐい",
+        "english": "without hesitation; with great optimism; vigorously; with great vigor; positively"
+    },
+    {
+        "japanese": "カチッと",
+        "english": "with a click (door sound)"
+    },
+    {
+        "japanese": "もじゃもじゃ",
+        "english": "tousled; shaggy (hair); scraggly (beard); dishevelled; disheveled; unkempt"
+    },
+    {
+        "japanese": "ぴしゃり",
+        "english": "slapping; splashing; splatting; banging shut; flat (refusal, denial, etc.)"
+    },
+    {
+        "japanese": "どさくさ",
+        "english": "confusion; bustle; turmoil; trouble"
+    },
+    {
+        "japanese": "しょぼん",
+        "english": "downheartedly; dejectedly; dispiritedly; despondently"
+    },
+    {
+        "japanese": "がぶり",
+        "english": "emphatically (bite, gulp, chew, etc.)"
+    },
+    {
+        "japanese": "どくどく",
+        "english": "gushingly; copiously; profusely; in a steady stream"
+    },
+    {
+        "japanese": "きちきち",
+        "english": "jam-packed (physically or of schedule, etc.)"
+    },
+    {
+        "japanese": "カーンカーン",
+        "english": "clanging; dong dong"
+    },
+    {
+        "japanese": "ドンパチ",
+        "english": "sound of pistol fire; sound of exploding gunpowder"
+    },
+    {
+        "japanese": "パクリ",
+        "english": "gaping (e.g. mouth, wound); (opening) wide"
+    },
+    {
+        "japanese": "むしゃくしゃ",
+        "english": "vexed; irritated; fretful; in ill humour; in ill humor; in a temper"
+    },
+    {
+        "japanese": "ひょいひょい",
+        "english": "lightly; nimbly; with agility"
+    },
+    {
+        "japanese": "ぐんと",
+        "english": "remarkably; noticeably"
+    },
+    {
+        "japanese": "ぶくぶく",
+        "english": "bulging; swelling (e.g. with water); loose-fitting or baggy (clothing)"
+    },
+    {
+        "japanese": "ベロベロ",
+        "english": "licking"
+    },
+    {
+        "japanese": "ほやほや",
+        "english": "hot (e.g. from the oven); steaming (from the pot); fresh"
+    },
+    {
+        "japanese": "ぼんぼん",
+        "english": "fiercely (e.g. of a fire burning)"
+    },
+    {
+        "japanese": "さめざめ",
+        "english": "(weep) quietly; silently; (cry) bitterly"
+    },
+    {
+        "japanese": "はっと",
+        "english": "with a start; in surprise"
+    },
+    {
+        "japanese": "グチョグチョ",
+        "english": "sopping; soaking"
+    },
+    {
+        "japanese": "むしゃくしゃ",
+        "english": "vexed; irritated; fretful; in ill humour; in ill humor; in a temper"
+    },
+    {
+        "japanese": "ごそごそ",
+        "english": "with a rustling sound; (rummaging) around"
+    },
+    {
+        "japanese": "ガーガー",
+        "english": "quacking; cackling; gaggling; croaking; squawking"
+    },
+    {
+        "japanese": "ひょいひょい",
+        "english": "lightly; nimbly; with agility"
+    },
+    {
+        "japanese": "キリキリ",
+        "english": "chafing; grinding (e.g. teeth)"
+    },
+    {
+        "japanese": "ぐんと",
+        "english": "remarkably; noticeably"
+    },
+    {
+        "japanese": "クニャクニャ",
+        "english": "(the impression of being) soft and flexible"
+    },
+    {
+        "japanese": "ぼんぼん",
+        "english": "fiercely (e.g. of a fire burning)"
+    },
+    {
+        "japanese": "ミシミシ",
+        "english": "with a creak; creakily"
+    },
+    {
+        "japanese": "どっかり",
+        "english": "plunking (down something heavy); flumping (into a chair)"
+    },
+    {
+        "japanese": "うじゃうじゃ",
+        "english": "in swarms; in clusters"
+    },
+    {
+        "japanese": "べらべら",
+        "english": "non-stop talking; speaking indiscreetly; chattering"
+    },
+    {
+        "japanese": "グチョグチョ",
+        "english": "sopping; soaking"
+    },
+    {
+        "japanese": "どっしり",
+        "english": "bulky and heavy; massive; solid; weighty; substantial"
+    },
+    {
+        "japanese": "くさくさ",
+        "english": "feeling depressed; feeling gloomy; feeling downhearted"
+    },
+    {
+        "japanese": "きゃっ",
+        "english": "yikes!; eek!; ouch!; blech"
+    },
+    {
+        "japanese": "ぼちぼち",
+        "english": "leisurely; slowly; gradually; steadily; little by little"
+    },
+    {
+        "japanese": "ザブン",
+        "english": "splash; plop"
+    },
+    {
+        "japanese": "きびきび",
+        "english": "brisk; lively; energetic"
+    },
+    {
+        "japanese": "どうと",
+        "english": "crash; smash; bang; sound of a large, heavy object falling"
+    },
+    {
+        "japanese": "グチョグチョ",
+        "english": "sopping; soaking"
+    },
+    {
+        "japanese": "冷んやり",
+        "english": "cool; chilly; feeling nice and cold"
+    },
+    {
+        "japanese": "がばっと",
+        "english": "suddenly; all of a sudden; quickly; emphatically; energetically"
+    },
+    {
+        "japanese": "はっと",
+        "english": "with a start; in surprise"
+    },
+    {
+        "japanese": "どっかり",
+        "english": "plunking (down something heavy); flumping (into a chair)"
+    },
+    {
+        "japanese": "ミシミシ",
+        "english": "with a creak; creakily"
+    },
+    {
+        "japanese": "ごそごそ",
+        "english": "with a rustling sound; (rummaging) around"
+    },
+    {
+        "japanese": "どっしり",
+        "english": "bulky and heavy; massive; solid; weighty; substantial"
+    },
+    {
+        "japanese": "くさくさ",
+        "english": "feeling depressed; feeling gloomy; feeling downhearted"
+    },
+    {
+        "japanese": "きびきび",
+        "english": "brisk; lively; energetic"
+    },
+    {
+        "japanese": "きゃっ",
+        "english": "yikes!; eek!; ouch!; blech"
+    },
+    {
+        "japanese": "ずけずけ",
+        "english": "(speak) bluntly; frankly"
+    },
+    {
+        "japanese": "ぽてぽて",
+        "english": "plump; fleshy; chubby"
+    },
+    {
+        "japanese": "むんむん",
+        "english": "stuffy; steamy; sultry"
+    },
+    {
+        "japanese": "のほほん",
+        "english": "nonchalantly; without a care"
+    },
+    {
+        "japanese": "メソメソ",
+        "english": "sobbing; weeping; whimpering"
+    },
+    {
+        "japanese": "どうと",
+        "english": "crash; smash; bang; sound of a large, heavy object falling"
+    },
+    {
+        "japanese": "フッ",
+        "english": "hah (derisively); pooh"
+    },
+    {
+        "japanese": "カスカス",
+        "english": "dry; dried out; juiceless"
+    },
+    {
+        "japanese": "ぼんぼん",
+        "english": "fiercely (e.g. of a fire burning)"
+    },
+    {
+        "japanese": "メソメソ",
+        "english": "sobbing; weeping; whimpering"
+    },
+    {
+        "japanese": "ずけずけ",
+        "english": "(speak) bluntly; frankly"
+    },
+    {
+        "japanese": "ザブン",
+        "english": "splash; plop"
+    },
+    {
+        "japanese": "ちびちび",
+        "english": "little by little; bit by bit; sparingly"
+    },
+    {
+        "japanese": "どうと",
+        "english": "crash; smash; bang; sound of a large, heavy object falling"
+    },
+    {
+        "japanese": "きゃっ",
+        "english": "yikes!; eek!; ouch!; blech"
+    },
+    {
+        "japanese": "フッ",
+        "english": "hah (derisively); pooh"
+    },
+    {
+        "japanese": "くねくね",
+        "english": "winding; meandering; wriggling; wiggling; waving; swaying; twisting and turning"
+    },
+    {
+        "japanese": "こっくりこっくり",
+        "english": "niddle-noddle; nid-nod; nodding off"
+    },
+    {
+        "japanese": "つかつか",
+        "english": "walking briskly; determinedly"
+    },
+    {
+        "japanese": "チクチク",
+        "english": "prickling; stinging; tingling"
+    },
+    {
+        "japanese": "ズバズバ",
+        "english": "straightforwardly; in an outspoken manner"
+    },
+    {
+        "japanese": "じろり",
+        "english": "glancing (look)"
+    },
+    {
+        "japanese": "ツンツン",
+        "english": "aloof; morose; stuck-up; standoffish"
+    },
+    {
+        "japanese": "てきぱき",
+        "english": "briskly; quickly; promptly"
+    },
+    {
+        "japanese": "とっぷり",
+        "english": "completely; fully; entirely"
+    },
+    {
+        "japanese": "どっかと",
+        "english": "with a thump; floppingly"
+    },
+    {
+        "japanese": "ぶらり",
+        "english": "dangling"
+    },
+    {
+        "japanese": "チュッ",
+        "english": "(with a) smooch (kissing); (with a) light smacking sound"
+    },
+    {
+        "japanese": "おんおん",
+        "english": "bawling; crying"
+    },
+    {
+        "japanese": "むんむん",
+        "english": "stuffy; steamy; sultry"
+    },
+    {
+        "japanese": "オタオタ",
+        "english": "flustered; flurried; (shocked) speechless"
+    },
+    {
+        "japanese": "ツンツン",
+        "english": "aloof; morose; stuck-up; standoffish"
+    },
+    {
+        "japanese": "パクリ",
+        "english": "gaping (e.g. mouth, wound); (opening) wide"
+    },
+    {
+        "japanese": "イジイジ",
+        "english": "hesitantly; timidly; diffidently"
+    },
+    {
+        "japanese": "ガーッと",
+        "english": "with a grinding noise"
+    },
+    {
+        "japanese": "こっくりこっくり",
+        "english": "niddle-noddle; nid-nod; nodding off"
+    },
+    {
+        "japanese": "パタン",
+        "english": "with a snap; with a bang; with a plonk; with a click"
+    },
+    {
+        "japanese": "強強",
+        "english": "stiff; starchy"
+    },
+    {
+        "japanese": "ごゆっくり",
+        "english": "slowly; unhurriedly; without haste; leisurely; at one's leisure"
+    },
+    {
+        "japanese": "ポンと",
+        "english": "with a pat; with a tap; with a clap; with a slap; with a smack"
+    },
+    {
+        "japanese": "ドロドロ",
+        "english": "rumbling (of thunder, drums, etc.); booming"
+    },
+    {
+        "japanese": "ザーザー",
+        "english": "(raining) heavily; (water rushing) plentily"
+    },
+    {
+        "japanese": "プツン",
+        "english": "(breaking) with a snap (of a thread, rope, etc.)"
+    },
+    {
+        "japanese": "あーん",
+        "english": "opening (one's mouth) wide; saying \"aah\""
+    },
+    {
+        "japanese": "ポーン",
+        "english": "with a boing; with a sproing; with a plonk"
+    },
+    {
+        "japanese": "うっとり",
+        "english": "ecstatically; spellbound; with rapt attention"
+    },
+    {
+        "japanese": "ペロリ",
+        "english": "(eating up) quickly; in no time; gobbling up"
+    },
+    {
+        "japanese": "どんと",
+        "english": "powerfully; vigorously; with all one's strength"
+    },
+    {
+        "japanese": "ポンポン",
+        "english": "pompom; pompon; pom-pom; pom-pon"
+    },
+    {
+        "japanese": "がりがり",
+        "english": "crunching; chewing or crushing something hard; scraping; scratching"
+    },
+    {
+        "japanese": "茫と",
+        "english": "in a daze; absent-mindedly; vacantly; abstractedly; blankly; idly"
+    },
+    {
+        "japanese": "濡れ濡れ",
+        "english": "wetly; moistly"
+    },
+    {
+        "japanese": "唖々",
+        "english": "caw (of a crow, etc.)"
+    },
+    {
+        "japanese": "ずらっと",
+        "english": "in a line; in a row"
+    },
+    {
+        "japanese": "ひょっと",
+        "english": "possibly; perhaps; perchance"
+    },
+    {
+        "japanese": "げっそり",
+        "english": "to be disheartened; to be dejected; to be discouraged; to be disappointed"
+    },
+    {
+        "japanese": "倩々",
+        "english": "carefully; closely; attentively; profoundly; deeply; at length"
+    },
+    {
+        "japanese": "ぼつぼつ",
+        "english": "gradually; little by little; in a breezy manner"
+    },
+    {
+        "japanese": "習習",
+        "english": "gentle breeze"
+    },
+    {
+        "japanese": "緩緩",
+        "english": "very loose; slowly; leisurely"
+    },
+    {
+        "japanese": "爽々",
+        "english": "rustling"
+    },
+    {
+        "japanese": "噁噁",
+        "english": "chirp; tweet; caw"
+    },
+    {
+        "japanese": "ハラハラ",
+        "english": "to feel anxious; to feel nervous; to be kept in suspense; to feel excited; to feel thrilled"
+    },
+    {
+        "japanese": "ピンポン",
+        "english": "ping-pong; table tennis"
+    },
+    {
+        "japanese": "パチパチ",
+        "english": "crackling; cracking; snapping; popping; clicking"
+    },
+    {
+        "japanese": "よちよち",
+        "english": "totteringly; with tottering steps; toddling"
+    },
+    {
+        "japanese": "からり",
+        "english": "with a clatter"
+    },
+    {
+        "japanese": "しとしと",
+        "english": "gently (raining); drizzling"
+    },
+    {
+        "japanese": "ぼやぼや",
+        "english": "to be careless; to be inattentive; to be absentminded; to be slow"
+    },
+    {
+        "japanese": "ムッと",
+        "english": "to be offended; to get angry; to be annoyed; to be miffed; to be huffy; to be sullen; to be upset"
+    },
+    {
+        "japanese": "からり",
+        "english": "with a clatter"
+    },
+    {
+        "japanese": "すやすや",
+        "english": "(sleeping) peacefully; quietly; soundly"
+    },
+    {
+        "japanese": "ぼやぼや",
+        "english": "to be careless; to be inattentive; to be absentminded; to be slow"
+    },
+    {
+        "japanese": "ワイワイ",
+        "english": "noisily; clamorously; boisterously"
+    },
+    {
+        "japanese": "ヌルヌル",
+        "english": "slimy; slippery; greasy; clammy"
+    },
+    {
+        "japanese": "がやがや",
+        "english": "noisily (crowd of people talking); clamorously; in a hubbub; jabberingly; chatteringly; buzzingly"
+    },
+    {
+        "japanese": "ふわり",
+        "english": "softly; gently; lightly"
+    },
+    {
+        "japanese": "パチパチ",
+        "english": "crackling; cracking; snapping; popping; clicking"
+    },
+    {
+        "japanese": "まったり",
+        "english": "rich (taste); full-bodied (flavour, flavor); mellow"
+    },
+    {
+        "japanese": "バリバリ",
+        "english": "vigorously (ripping, tearing, scratching, etc.); roughly; with a rip"
+    },
+    {
+        "japanese": "グダグダ",
+        "english": "tediously; persistently; repeatedly; at length"
+    },
+    {
+        "japanese": "グー",
+        "english": "rock (in rock-paper-scissors); stone; fist"
+    },
+    {
+        "japanese": "ぎゅっと",
+        "english": "tightly (hold, squeeze, etc.); firmly; forcefully (e.g. push); hard"
+    },
+    {
+        "japanese": "ちくり",
+        "english": "prickling; stinging; biting"
+    },
+    {
+        "japanese": "ジワジワ",
+        "english": "slowly (but steadily); gradually; bit-by-bit"
+    },
+    {
+        "japanese": "ヌーボー",
+        "english": "modern; up-to-date"
+    },
+    {
+        "japanese": "チェッ",
+        "english": "tsk; tut; shoot; darn; dang"
+    },
+    {
+        "japanese": "パサパサ",
+        "english": "dried-out; dry (e.g. hair); stale (bread)"
+    },
+    {
+        "japanese": "１",
+        "english": "one"
+    },
+    {
+        "japanese": "ぴょん",
+        "english": "(jumping) nimbly; light-footed"
+    },
+    {
+        "japanese": "ドドン",
+        "english": "with a boom; with a crash; with a rumble"
+    },
+    {
+        "japanese": "わらわら",
+        "english": "bustling; shuffling; squirming; creepy crawly"
+    },
+    {
+        "japanese": "シャー",
+        "english": "whoosh (of water)"
+    },
+    {
+        "japanese": "パシャ",
+        "english": "pasha (honorary title)"
+    },
+    {
+        "japanese": "ドッキリ",
+        "english": "feeling startled; getting a shock"
+    },
+    {
+        "japanese": "すとん",
+        "english": "(with a) thump"
+    },
+    {
+        "japanese": "パチ",
+        "english": "snapping (e.g. book shut); clapping; crackling; sputtering"
+    },
+    {
+        "japanese": "メー",
+        "english": "baa (sound of a sheep); meh"
+    },
+    {
+        "japanese": "プー",
+        "english": "toot (e.g. of trumpet)"
+    },
+    {
+        "japanese": "ぺちゃくちゃ",
+        "english": "chattering; chit-chat; (ladies) prattle"
+    },
+    {
+        "japanese": "バリン",
+        "english": "valine"
+    },
+    {
+        "japanese": "ブーン",
+        "english": "whirr; hum; buzz"
+    },
+    {
+        "japanese": "ちゅう",
+        "english": "kiss"
+    },
+    {
+        "japanese": "チュンチュン",
+        "english": "chirp; cheep"
+    },
+    {
+        "japanese": "ほう",
+        "english": "oh; ho; exclamation of surprise, admiration, etc."
+    },
+    {
+        "japanese": "バーン",
+        "english": "barn"
+    },
+    {
+        "japanese": "ぷちぷち",
+        "english": "sound of bubbles (or other small objects) being popped"
+    },
+    {
+        "japanese": "ばちん",
+        "english": "(with a) slap; smack; whack; sound of a sharp blow with something flat"
+    },
+    {
+        "japanese": "カンカン",
+        "english": "extremely angry; furious; enraged"
+    },
+    {
+        "japanese": "ポン",
+        "english": "pat; tap; clap; slap; smack"
+    },
+    {
+        "japanese": "ずっしり",
+        "english": "heavily; profoundly"
+    },
+    {
+        "japanese": "あっと",
+        "english": "with a (cry of) \"ah!\"; with a shout (of surprise, shock, etc.); in surprise; in astonishment"
+    },
+    {
+        "japanese": "ジーンと",
+        "english": "(being moved) deeply; (feeling) profoundly; (going) straight to one's heart; (moved) to tears"
+    },
+    {
+        "japanese": "ぷっつり",
+        "english": "(breaking) with a snap (of a thread, rope, etc.)"
+    },
+    {
+        "japanese": "ぺろっと",
+        "english": "(eating up) quickly; in no time; gobbling up"
+    },
+    {
+        "japanese": "しばしば",
+        "english": "(blinking) repeatedly"
+    },
+    {
+        "japanese": "グキグキ",
+        "english": "throbbing pain"
+    },
+    {
+        "japanese": "パカパカ",
+        "english": "clip-clop; clippety-clop"
+    },
+    {
+        "japanese": "とくとく",
+        "english": "glug-glug"
+    },
+    {
+        "japanese": "とん",
+        "english": "tap; knock; bonk"
+    },
+    {
+        "japanese": "じわっと",
+        "english": "slowly but steadily"
+    },
+    {
+        "japanese": "ぴりり",
+        "english": "tingling; stinging; pungently"
+    },
+    {
+        "japanese": "ぷるんぷるん",
+        "english": "shaking like a jelly; jellylike"
+    },
+    {
+        "japanese": "でれっと",
+        "english": "slack; slovenly; lackadaisical"
+    },
+    {
+        "japanese": "ポタリ",
+        "english": "drip; fall drop-by-drop"
+    },
+    {
+        "japanese": "バン",
+        "english": "bang"
+    },
+    {
+        "japanese": "ばしっと",
+        "english": "whack; smack"
+    },
+    {
+        "japanese": "のそりのそり",
+        "english": "slowly; stolidly; heavily; lumpingly"
+    },
+    {
+        "japanese": "ごろっと",
+        "english": "slumping; flopping down"
+    },
+    {
+        "japanese": "バブバブ",
+        "english": "goo-goo ga-ga"
+    },
+    {
+        "japanese": "ぐらり",
+        "english": "shaking violently"
+    },
+    {
+        "japanese": "ぐうぐう",
+        "english": "fast (asleep); snoring or grumbling sound"
+    },
+    {
+        "japanese": "でれっと",
+        "english": "slack; slovenly; lackadaisical"
+    },
+    {
+        "japanese": "ポタリ",
+        "english": "drip; fall drop-by-drop"
+    },
+    {
+        "japanese": "ぶるん",
+        "english": "with a vroom; with a sudden shaking"
+    },
+    {
+        "japanese": "どんぶりこ",
+        "english": "plop; splash"
+    },
+    {
+        "japanese": "ぎいとん",
+        "english": "squeaking or creaking (followed by a thump)"
+    },
+    {
+        "japanese": "ぱったり",
+        "english": "unexpectedly; suddenly; abruptly"
+    },
+    {
+        "japanese": "どきん",
+        "english": "being startled; getting a shock"
+    },
+    {
+        "japanese": "パカパカ",
+        "english": "clip-clop; clippety-clop"
+    },
+    {
+        "japanese": "ゴツン",
+        "english": "thud; thump; bang"
+    },
+    {
+        "japanese": "ジューッ",
+        "english": "fizzlingly; sputteringly"
+    },
+    {
+        "japanese": "とくとく",
+        "english": "glug-glug"
+    },
+    {
+        "japanese": "とん",
+        "english": "tap; knock; bonk"
+    },
+    {
+        "japanese": "じわっと",
+        "english": "slowly but steadily"
+    },
+    {
+        "japanese": "ゴクン",
+        "english": "with a gulp"
+    },
+    {
+        "japanese": "ごとり",
+        "english": "with a thump; with a clang; with a clank"
+    },
+    {
+        "japanese": "ぷにぷに",
+        "english": "squishy; springy; bouncy"
+    },
+    {
+        "japanese": "ぴりり",
+        "english": "tingling; stinging; pungently"
+    },
+    {
+        "japanese": "ビシバシ",
+        "english": "without holding anything back; mercilessly; relentlessly; energetically; vigorously"
+    },
+    {
+        "japanese": "どたんばたん",
+        "english": "banging around (e.g. in a fight)"
+    },
+    {
+        "japanese": "けちょんけちょん",
+        "english": "thorough (criticism, defeat, etc.); utter; serious"
+    },
+    {
+        "japanese": "がじがじ",
+        "english": "biting; gnawing"
+    },
+    {
+        "japanese": "ごとり",
+        "english": "with a thump; with a clang; with a clank"
+    },
+    {
+        "japanese": "とろん",
+        "english": "appearing drowsy or intoxicated (of eyes, actions, etc.)"
+    },
+    {
+        "japanese": "どばどば",
+        "english": "pouring out in large amounts; flowing out gushingly"
+    },
+    {
+        "japanese": "ぶるっと",
+        "english": "shiveringly"
+    },
+    {
+        "japanese": "モコモコ",
+        "english": "fluffy"
+    },
+    {
+        "japanese": "ブルルン",
+        "english": "va-va-vroom; va-voom; vrrrm"
+    },
+    {
+        "japanese": "にちゃにちゃ",
+        "english": "slimy"
+    },
+    {
+        "japanese": "ぐしぐし",
+        "english": "grumbling; complaining; muttering"
+    },
+    {
+        "japanese": "だらり",
+        "english": "languidly; loosely"
+    },
+    {
+        "japanese": "こそっと",
+        "english": "stealthily; secretly"
+    },
+    {
+        "japanese": "だくだく",
+        "english": "gushing out (e.g. sweat or blood); flowing profusely"
+    },
+    {
+        "japanese": "スコスコ",
+        "english": "repeatedly; leaving no stone unturned; walking rapidly"
+    },
+    {
+        "japanese": "ぷくぷく",
+        "english": "bubblingly; foamingly; sinking or rising while giving off bubbles"
+    },
+    {
+        "japanese": "きちんきちん",
+        "english": "correctly; properly; accurately"
+    },
+    {
+        "japanese": "プチュッ",
+        "english": "kissing loudly; smooching"
+    },
+    {
+        "japanese": "ビュッ",
+        "english": "zip; ping; zing; zoom; whoosh"
+    },
+    {
+        "japanese": "もやくや",
+        "english": "trouble; bother; confusion"
+    },
+    {
+        "japanese": "ちまちま",
+        "english": "small; compact"
+    },
+    {
+        "japanese": "ひょろっと",
+        "english": "tall and thin; long and thin; lanky; spindly; gangly"
+    },
+    {
+        "japanese": "にょろにょろ",
+        "english": "slitheringly; wriggling, slipping and sliding"
+    },
+    {
+        "japanese": "ひくひく",
+        "english": "twitching"
+    },
+    {
+        "japanese": "ゴホゴホ",
+        "english": "coughing; hacking cough"
+    },
+    {
+        "japanese": "ぽんぽこ",
+        "english": "sounding of a drum or hand drum; sound of drums"
+    },
+    {
+        "japanese": "ふんふん",
+        "english": "uh-huh"
+    },
+    {
+        "japanese": "ジューッ",
+        "english": "fizzlingly; sputteringly"
+    },
+    {
+        "japanese": "ぽくぽく",
+        "english": "rhythmically (beating, e.g. gong)"
+    },
+    {
+        "japanese": "ビチビチ",
+        "english": "sound of the expulsion of soft matter mixed with water; diarrhea, etc. sounds; watery"
+    },
+    {
+        "japanese": "しらっと",
+        "english": "dully; dispassionately; apathetically; in a subdued manner"
+    },
+    {
+        "japanese": "ぞわり",
+        "english": "chillingly; shiveringly; with goosebumps; uncomfortably; restlessly"
+    },
+    {
+        "japanese": "ずぼり",
+        "english": "vigorously; really getting stuck into"
+    },
+    {
+        "japanese": "コトコト",
+        "english": "gentle clinking; sound of rapping; sound of rattling; sound of lightly chopping"
+    },
+    {
+        "japanese": "のそのそ",
+        "english": "(move) slowly (e.g. walk); sluggishly; stolidly; ploddingly; heavily"
+    },
+    {
+        "japanese": "むぎゅむぎゅ",
+        "english": "springy (texture); doughy; elastic"
+    },
+    {
+        "japanese": "ごにょごにょ",
+        "english": "mumblingly; mutteringly; unintelligibly"
+    },
+    {
+        "japanese": "きょろり",
+        "english": "with bright almond eyes; eyes wide open"
+    },
+    {
+        "japanese": "きょろん",
+        "english": "with bright almond eyes; eyes wide open"
+    },
+    {
+        "japanese": "くだくだ",
+        "english": "tediously; lengthily; wordily"
+    },
+    {
+        "japanese": "ブー",
+        "english": "beep; honk (car horn); buzz (buzzer); boo (wrong answer, like buzzer on quiz shows)"
+    },
+    {
+        "japanese": "うふん",
+        "english": "tee-hee"
+    },
+    {
+        "japanese": "ぷくっと",
+        "english": "puffed up"
+    },
+    {
+        "japanese": "ドドーン",
+        "english": "boom; kaboom"
+    },
+    {
+        "japanese": "ペッペッ",
+        "english": "spitting"
+    },
+    {
+        "japanese": "かたり",
+        "english": "with a clatter; clatteringly"
+    },
+    {
+        "japanese": "わしわし",
+        "english": "many people talking noisily"
+    },
+    {
+        "japanese": "ごっくん",
+        "english": "gulp; gulping; swallowing"
+    },
+    {
+        "japanese": "へたへた",
+        "english": "falling down; lacking the energy to stand; collapsing"
+    },
+    {
+        "japanese": "わちゃわちゃ",
+        "english": "chattering; chit-chat; (ladies) prattle"
+    },
+    {
+        "japanese": "ふにゃり",
+        "english": "limply"
+    },
+    {
+        "japanese": "ぷくり",
+        "english": "partly puffed up"
+    },
+    {
+        "japanese": "ぽきり",
+        "english": "snappingly; with a snap"
+    },
+    {
+        "japanese": "さらっと",
+        "english": "smoothly; swimmingly"
+    },
+    {
+        "japanese": "ペッ",
+        "english": "phooey"
+    },
+    {
+        "japanese": "がちゃりと",
+        "english": "with a clank"
+    },
+    {
+        "japanese": "ころり",
+        "english": "easily; effortlessly; suddenly; utterly"
+    },
+    {
+        "japanese": "ぴくんぴくん",
+        "english": "with a twitch; twitchingly"
+    },
+    {
+        "japanese": "ぶらんぶらん",
+        "english": "dangling"
+    },
+    {
+        "japanese": "バタンキュー",
+        "english": "falling asleep immediately; going out like a light"
+    },
+    {
+        "japanese": "きゅう",
+        "english": "(rubbing, twisting) hard; with a squeal; with a creak"
+    },
+    {
+        "japanese": "ちゃっちゃと",
+        "english": "lickety-split; quickly"
+    },
+    {
+        "japanese": "パシャン",
+        "english": "splash; sploosh"
+    },
+    {
+        "japanese": "ぽそっと",
+        "english": "whispering; murmuring; subdued"
+    },
+    {
+        "japanese": "バブバブ",
+        "english": "goo-goo ga-ga"
+    },
+    {
+        "japanese": "びいびい",
+        "english": "noisily; bleatingly"
+    },
+    {
+        "japanese": "かたっと",
+        "english": "clattering; (with a) clunk"
+    },
+    {
+        "japanese": "ちゃんちゃんばらばら",
+        "english": "clashing of swords"
+    },
+    {
+        "japanese": "とろり",
+        "english": "thickly; viscously; stickily; creamily; (melting and) becoming soft"
+    },
+    {
+        "japanese": "がしゃがしゃ",
+        "english": "(pieces of metal, etc. hitting each other) noisily"
+    },
+    {
+        "japanese": "くいくい",
+        "english": "giving two or three light tugs (or pushes)"
+    },
+    {
+        "japanese": "じとり",
+        "english": "damp; moist"
+    },
+    {
+        "japanese": "ぴんしゃん",
+        "english": "vigorous for one's age; active despite one's years; hale and hearty; full of beans"
+    },
+    {
+        "japanese": "にやっ",
+        "english": "smirkingly; broadly (grinning)"
+    },
+    {
+        "japanese": "じたじた",
+        "english": "cowering; recoiling; overwhelmed"
+    },
+    {
+        "japanese": "しんなり",
+        "english": "soft; supple; pliant"
+    },
+    {
+        "japanese": "すぱっと",
+        "english": "completely (quitting, etc.); entirely; thoroughly; totally; wholly; without hesitation"
+    },
+    {
+        "japanese": "ビュイーン",
+        "english": "zooming; whizzing; whistling"
+    },
+    {
+        "japanese": "シャキーン",
+        "english": "clink; clank; clang"
+    },
+    {
+        "japanese": "コンコン",
+        "english": "tap-tap; knock-knock; bang-bang"
+    },
+    {
+        "japanese": "ばさばさ",
+        "english": "rustling; flapping; fluttering"
+    },
+    {
+        "japanese": "ちゃかちゃか",
+        "english": "restlessly; restively; agitated; fidgety"
+    },
+    {
+        "japanese": "からころ",
+        "english": "clip-clop (esp. of geta)"
+    },
+    {
+        "japanese": "どくん",
+        "english": "heavy heartbeat; thumping; pounding"
+    },
+    {
+        "japanese": "げほげほ",
+        "english": "(wet) cough; (sound of) coughing"
+    },
+    {
+        "japanese": "かちゃり",
+        "english": "with a clang or a clink; tinkle"
+    },
+    {
+        "japanese": "ぐすぐす",
+        "english": "snuffling; sniffling"
+    },
+    {
+        "japanese": "ささっと",
+        "english": "quickly; briefly"
+    },
+    {
+        "japanese": "ひらり",
+        "english": "nimbly; lightly"
+    },
+    {
+        "japanese": "ぽかり",
+        "english": "with a whack; with a thump"
+    },
+    {
+        "japanese": "ふっくら",
+        "english": "fully; luxuriantly; fluffy; plump; soft and full"
+    },
+    {
+        "japanese": "グルル",
+        "english": "grrr; growl"
+    },
+    {
+        "japanese": "カシャリ",
+        "english": "click"
+    },
+    {
+        "japanese": "がさごそ",
+        "english": "rustling (sound)"
+    },
+    {
+        "japanese": "わなわな",
+        "english": "trembling from fear; trembling all over"
+    },
+    {
+        "japanese": "ビリッと",
+        "english": "ripping; tearing; vibrating; buzzing; like an electric shock"
+    },
+    {
+        "japanese": "シュッと",
+        "english": "quickly"
+    },
+    {
+        "japanese": "こちゃこちゃ",
+        "english": "cramming in (many small things); jumbling together"
+    },
+    {
+        "japanese": "ちゃっと",
+        "english": "swiftly; rapidly; promptly; nimbly"
+    },
+    {
+        "japanese": "がしゃがしゃ",
+        "english": "(pieces of metal, etc. hitting each other) noisily"
+    },
+    {
+        "japanese": "がちゃりと",
+        "english": "with a clank"
+    },
+    {
+        "japanese": "コンコン",
+        "english": "tap-tap; knock-knock; bang-bang"
+    },
+    {
+        "japanese": "とろり",
+        "english": "thickly; viscously; stickily; creamily; (melting and) becoming soft"
+    },
+    {
+        "japanese": "くいくい",
+        "english": "giving two or three light tugs (or pushes)"
+    },
+    {
+        "japanese": "じとり",
+        "english": "damp; moist"
+    },
+    {
+        "japanese": "ぴんしゃん",
+        "english": "vigorous for one's age; active despite one's years; hale and hearty; full of beans"
+    },
+    {
+        "japanese": "じたじた",
+        "english": "cowering; recoiling; overwhelmed"
+    },
+    {
+        "japanese": "しんなり",
+        "english": "soft; supple; pliant"
+    },
+    {
+        "japanese": "んん",
+        "english": "hm; um"
+    },
+    {
+        "japanese": "のっぺり",
+        "english": "featureless (face); expressionless; flat; blank; smooth"
+    },
+    {
+        "japanese": "すぱっと",
+        "english": "completely (quitting, etc.); entirely; thoroughly; totally; wholly; without hesitation"
+    },
+    {
+        "japanese": "ビュイーン",
+        "english": "zooming; whizzing; whistling"
+    },
+    {
+        "japanese": "シャキーン",
+        "english": "clink; clank; clang"
+    },
+    {
+        "japanese": "どくん",
+        "english": "heavy heartbeat; thumping; pounding"
+    },
+    {
+        "japanese": "ばさばさ",
+        "english": "rustling; flapping; fluttering"
+    },
+    {
+        "japanese": "ぬるっと",
+        "english": "oilily; slimily; slipperily"
+    },
+    {
+        "japanese": "ぷっくり",
+        "english": "puffed up; plump"
+    },
+    {
+        "japanese": "げほげほ",
+        "english": "(wet) cough; (sound of) coughing"
+    },
+    {
+        "japanese": "ぐすぐす",
+        "english": "snuffling; sniffling"
+    },
+    {
+        "japanese": "ピーピー",
+        "english": "peep; chirp; beep; whistling, chirping, piping, etc. sound made by birds, insects, pipes, children, etc."
+    },
+    {
+        "japanese": "ジョリジョリ",
+        "english": "scrape-scrape; (with a) scraping sound"
+    },
+    {
+        "japanese": "ぷかり",
+        "english": "puffing (e.g. cigarette smoke)"
+    },
+    {
+        "japanese": "ざぶざぶ",
+        "english": "splashing; sloshing"
+    },
+    {
+        "japanese": "スルッと",
+        "english": "smoothly; glidingly"
+    },
+    {
+        "japanese": "ズボッと",
+        "english": "something going right into or coming right out of a place where it fits snugly"
+    },
+    {
+        "japanese": "タプタプ",
+        "english": "flabby"
+    },
+    {
+        "japanese": "頓と",
+        "english": "completely"
+    },
+    {
+        "japanese": "しゃんしゃん",
+        "english": "jingling"
+    },
+    {
+        "japanese": "ゲタゲタ",
+        "english": "boisterously (laughing)"
+    },
+    {
+        "japanese": "ぶくり",
+        "english": "sound of something floating or sinking in water"
+    },
+    {
+        "japanese": "ぎったんばっこん",
+        "english": "seesaw; teeter-totter"
+    },
+    {
+        "japanese": "んん",
+        "english": "hm; um"
+    },
+    {
+        "japanese": "ヒーヒー",
+        "english": "whaa whaa; sound of a baby crying"
+    },
+    {
+        "japanese": "ハハハ",
+        "english": "ha ha ha (laughter)"
+    },
+    {
+        "japanese": "しゅるしゅる",
+        "english": "rustling (as of silk); slithering (sound); whizzing; hissing"
+    },
+    {
+        "japanese": "けろり",
+        "english": "completely; entirely"
+    },
+    {
+        "japanese": "ニタァ",
+        "english": "with a grin; showing a devilish smile"
+    },
+    {
+        "japanese": "ねっとり",
+        "english": "viscously; stickily"
+    },
+    {
+        "japanese": "ピロピロ",
+        "english": "party horn; party blower"
+    },
+    {
+        "japanese": "ぽっぽと",
+        "english": "puffing; chugging"
+    },
+    {
+        "japanese": "ぴかり",
+        "english": "with a flash; brightly; dazzlingly; sparklingly; brilliantly"
+    },
+    {
+        "japanese": "グーン",
+        "english": "remarkably; noticeably"
+    },
+    {
+        "japanese": "くぱぁ",
+        "english": "sound of vulva opening"
+    },
+    {
+        "japanese": "ばさり",
+        "english": "with a thud"
+    },
+    {
+        "japanese": "ガタゴト",
+        "english": "rattling; clattering"
+    },
+    {
+        "japanese": "パコパコ",
+        "english": "sound of typing on a keyboard"
+    },
+    {
+        "japanese": "ポイポイ",
+        "english": "tossing"
+    },
+    {
+        "japanese": "がっぽがっぽ",
+        "english": "in large quantities"
+    },
+    {
+        "japanese": "ぐしゃり",
+        "english": "squashed; crushed"
+    },
+    {
+        "japanese": "うぞうぞ",
+        "english": "irrepressibly aroused (esp. sexually); stimulated"
+    },
+    {
+        "japanese": "ボテボテ",
+        "english": "bulky (e.g. clothing); ungainly; heavy; big"
+    },
+    {
+        "japanese": "ぴっしゃり",
+        "english": "slapping together (incl. sound)"
+    },
+    {
+        "japanese": "ほろっと",
+        "english": "touching; moving (to tears)"
+    },
+    {
+        "japanese": "そそくさ",
+        "english": "hurriedly; in a hurry; in haste"
+    },
+    {
+        "japanese": "がらんがらん",
+        "english": "clanging"
+    },
+    {
+        "japanese": "ガブッと",
+        "english": "chomping; gulping; with a big bite"
+    },
+    {
+        "japanese": "なよなよ",
+        "english": "delicately; weakly; gently; supplely"
+    },
+    {
+        "japanese": "チャラチャラ",
+        "english": "jingle; jangle; clinking; jingling; jangling"
+    },
+    {
+        "japanese": "くりくり",
+        "english": "big and round (eyes, shaven head, etc.)"
+    },
+    {
+        "japanese": "ごとん",
+        "english": "thump; clang; clank"
+    },
+    {
+        "japanese": "ぴかり",
+        "english": "with a flash; brightly; dazzlingly; sparklingly; brilliantly"
+    },
+    {
+        "japanese": "グーン",
+        "english": "remarkably; noticeably"
+    },
+    {
+        "japanese": "くぱぁ",
+        "english": "sound of vulva opening"
+    },
+    {
+        "japanese": "ぱしぱし",
+        "english": "with a snap"
+    },
+    {
+        "japanese": "パコパコ",
+        "english": "sound of typing on a keyboard"
+    },
+    {
+        "japanese": "ほっこり",
+        "english": "warm and fluffy; soft"
+    },
+    {
+        "japanese": "パーン",
+        "english": "bang; boom; crack"
+    },
+    {
+        "japanese": "ずしっと",
+        "english": "heavily; profoundly"
+    },
+    {
+        "japanese": "ぱたり",
+        "english": "with a clink; with a flop"
+    },
+    {
+        "japanese": "ポイポイ",
+        "english": "tossing"
+    },
+    {
+        "japanese": "ぐしゃり",
+        "english": "squashed; crushed"
+    },
+    {
+        "japanese": "なよなよ",
+        "english": "delicately; weakly; gently; supplely"
+    },
+    {
+        "japanese": "すうすう",
+        "english": "sound of wind rustling through a crack; wheezing"
+    },
+    {
+        "japanese": "ボテボテ",
+        "english": "bulky (e.g. clothing); ungainly; heavy; big"
+    },
+    {
+        "japanese": "ボテッと",
+        "english": "podgily; plumply; thickly"
+    },
+    {
+        "japanese": "ピーピー",
+        "english": "peep; chirp; beep; whistling, chirping, piping, etc. sound made by birds, insects, pipes, children, etc."
+    },
+    {
+        "japanese": "ぴっしゃり",
+        "english": "slapping together (incl. sound)"
+    },
+    {
+        "japanese": "ほろっと",
+        "english": "touching; moving (to tears)"
+    },
+    {
+        "japanese": "のこのこ",
+        "english": "unconcernedly; nonchalantly; shamelessly; brazenly"
+    },
+    {
+        "japanese": "ゴトゴト",
+        "english": "clop clop; rumble rumble"
+    },
+    {
+        "japanese": "けばけば",
+        "english": "gaudy; garish; showy"
+    },
+    {
+        "japanese": "すっすっ",
+        "english": "smoothly; frictionlessly; easily"
+    },
+    {
+        "japanese": "ぽっちり",
+        "english": "very slightly; a little"
+    },
+    {
+        "japanese": "めためた",
+        "english": "beyond repair"
+    },
+    {
+        "japanese": "がっぷり",
+        "english": "firmly (grasped); latched onto; locked onto"
+    },
+    {
+        "japanese": "びしびし",
+        "english": "stickily; relentlessly"
+    },
+    {
+        "japanese": "むしゃむしゃ",
+        "english": "munching; devouring; gobbling up; ravenously"
+    },
+    {
+        "japanese": "ぱらり",
+        "english": "sprinkling; dropping in small light bits"
+    },
+    {
+        "japanese": "とっくり",
+        "english": "thoroughly; carefully; deliberately; seriously; fully"
+    },
+    {
+        "japanese": "びたびた",
+        "english": "drenched; soaked"
+    },
+    {
+        "japanese": "ギクッと",
+        "english": "(with a) start; fright; alarm"
+    },
+    {
+        "japanese": "ピクピク",
+        "english": "twitching"
+    },
+    {
+        "japanese": "ごくっ",
+        "english": "gulp; gulping"
+    },
+    {
+        "japanese": "みっしり",
+        "english": "strictly; severely"
+    },
+    {
+        "japanese": "タタタン",
+        "english": "tappity-tap; tap-tap"
+    },
+    {
+        "japanese": "きゅうきゅう",
+        "english": "squeak"
+    },
+    {
+        "japanese": "うそうそ",
+        "english": "uneasily; restlessly; erratically"
+    },
+    {
+        "japanese": "しゃきしゃき",
+        "english": "crisp; crunchy; precise; clipped; brisk"
+    },
+    {
+        "japanese": "ぬるっと",
+        "english": "oilily; slimily; slipperily"
+    },
+    {
+        "japanese": "わっさわっさ",
+        "english": "with a bustle; with a hubbub"
+    },
+    {
+        "japanese": "ひょこひょこ",
+        "english": "unsteady steps; bobbing"
+    },
+    {
+        "japanese": "きらっと",
+        "english": "with a single flash of light; glitteringly; sparklingly; twinklingly"
+    },
+    {
+        "japanese": "ぷいと",
+        "english": "suddenly in a bad mood; in a huff"
+    },
+    {
+        "japanese": "ビンビン",
+        "english": "hard (e.g. penis); strong (e.g. beat of music); throbbing (e.g. headache); blaring (e.g. rock music)"
+    },
+    {
+        "japanese": "けろけろ",
+        "english": "completely; entirely"
+    },
+    {
+        "japanese": "ケロケロ",
+        "english": "croak; ribbit; sound of frogs"
+    },
+    {
+        "japanese": "かん",
+        "english": "ding; chime (sound of a bell or a small gong)"
+    },
+    {
+        "japanese": "ぺちゃぺちゃ",
+        "english": "chatter; prattle"
+    },
+    {
+        "japanese": "ねとねと",
+        "english": "stickily; gooily; syrupily"
+    },
+    {
+        "japanese": "けろっと",
+        "english": "completely; entirely"
+    },
+    {
+        "japanese": "シュワシュワ",
+        "english": "bubbliness (of a carbonated drink); sound of bubbles (of a carbonated drink); fluffiness (of a cake, souffle, whipped cream)"
+    },
+    {
+        "japanese": "じいじい",
+        "english": "sizzle (sound of meat cooking)"
+    },
+    {
+        "japanese": "ムカッと",
+        "english": "feeling sick (suddenly); feeling queasy; feeling nauseated"
+    },
+    {
+        "japanese": "へどもど",
+        "english": "flustered; flurried; stuttering (e.g. an apology)"
+    },
+    {
+        "japanese": "じろっと",
+        "english": "glancing (look)"
+    },
+    {
+        "japanese": "くるっと",
+        "english": "turning around; spinning around; curling up"
+    },
+    {
+        "japanese": "ずしずし",
+        "english": "thump; thud (sound representing the footfalls of something heavy)"
+    },
+    {
+        "japanese": "ピシッと",
+        "english": "with a crack; with a snap; with a slam"
+    },
+    {
+        "japanese": "がじゃがじゃ",
+        "english": "rummaging (in a drawer)"
+    },
+    {
+        "japanese": "ずんぐり",
+        "english": "short and stout; small but wide around"
+    },
+    {
+        "japanese": "モワァ〜ン",
+        "english": "whoosh; swish"
+    },
+    {
+        "japanese": "ぷるぷる",
+        "english": "trembling; shivering"
+    },
+    {
+        "japanese": "ずんぐりむっくり",
+        "english": "very short and stout; small but quite wide around"
+    },
+    {
+        "japanese": "ピカッと",
+        "english": "with a flash; brightly; dazzlingly; sparklingly; brilliantly (shining)"
+    },
+    {
+        "japanese": "じゃあじゃあ",
+        "english": "noisily (of water gushing, pouring, spilling, splashing, spraying, etc.)"
+    },
+    {
+        "japanese": "ぴちぴち",
+        "english": "bursting with youth and energy (esp. young woman); vivaciously young; spunky; energetic"
+    },
+    {
+        "japanese": "ざらっと",
+        "english": "roughly; coarsely; grittily"
+    },
+    {
+        "japanese": "しゃりしゃり",
+        "english": "sound of two hard thin objects rubbing together; crunch crunch"
+    },
+    {
+        "japanese": "ちりんちりん",
+        "english": "jingle; ding; ringing of small bells"
+    },
+    {
+        "japanese": "ちょこん",
+        "english": "slightly (of an action); (looking) small and quiet"
+    },
+    {
+        "japanese": "くっくっと",
+        "english": "with a chuckle; with a giggle"
+    },
+    {
+        "japanese": "はたはた",
+        "english": "flutter; flap; sound of something light moving in the wind"
+    },
+    {
+        "japanese": "ぺらっと",
+        "english": "flipping (e.g. a page); peeling off"
+    },
+    {
+        "japanese": "ばっと",
+        "english": "suddenly; in a flash; rapidly; nimbly; alertly"
+    },
+    {
+        "japanese": "くわっと",
+        "english": "opening suddenly and widely (e.g. eyes)"
+    },
+    {
+        "japanese": "くしゅくしゅ",
+        "english": "crumply (cloth, clothing, etc.); ruffled"
+    },
+    {
+        "japanese": "ぺたぺた",
+        "english": "sound of a flat surface repeatedly making contact with something"
+    },
+    {
+        "japanese": "ぐにゃぐにゃ",
+        "english": "flabby; limp; soft and pliable"
+    },
+    {
+        "japanese": "がたり",
+        "english": "with a bang (clash, bump)"
+    },
+    {
+        "japanese": "ぽうっと",
+        "english": "shrill whistling sound"
+    },
+    {
+        "japanese": "パーン",
+        "english": "bang; boom; crack"
+    },
+    {
+        "japanese": "じゃりじゃり",
+        "english": "crunchy; gritty (sand, pebbles, etc.)"
+    },
+    {
+        "japanese": "こくんこくん",
+        "english": "glugging; drinking deeply"
+    },
+    {
+        "japanese": "のたりのたり",
+        "english": "slowly (of undulating waves); gently (swelling, rolling, etc.)"
+    },
+    {
+        "japanese": "きしきし",
+        "english": "squeak; creak"
+    },
+    {
+        "japanese": "こくん",
+        "english": "nod deeply"
+    },
+    {
+        "japanese": "ぱしぱし",
+        "english": "with a snap"
+    },
+    {
+        "japanese": "ボテッと",
+        "english": "podgily; plumply; thickly"
+    },
+    {
+        "japanese": "ビューン",
+        "english": "swish; whoosh; whizz"
+    },
+    {
+        "japanese": "ほっかり",
+        "english": "pleasantly (warm)"
+    },
+    {
+        "japanese": "ふらっと",
+        "english": "aimlessly; by chance; accidentally; casually; suddenly; unexpectedly"
+    },
+    {
+        "japanese": "転",
+        "english": "turning around (once)"
+    },
+    {
+        "japanese": "くすん",
+        "english": "sniff; sniffle; snuffle"
+    },
+    {
+        "japanese": "ずきんずきん",
+        "english": "throbbing (pain); pounding; stinging"
+    },
+    {
+        "japanese": "ごっそり",
+        "english": "completely; entirely; all"
+    },
+    {
+        "japanese": "グラッと",
+        "english": "shaking violently"
+    },
+    {
+        "japanese": "どろり",
+        "english": "thick (of a liquid); muddy; gooey"
+    },
+    {
+        "japanese": "しっぽり",
+        "english": "in a drenched manner; moistly"
+    },
+    {
+        "japanese": "もりもり",
+        "english": "(eating) heartily"
+    },
+    {
+        "japanese": "ネチャネチャ",
+        "english": "gooey; viscous; sticky"
+    },
+    {
+        "japanese": "ケラケラ",
+        "english": "cackling (sound of shrill laughter)"
+    },
+    {
+        "japanese": "ぐんにゃり",
+        "english": "limp; listless; enervated; having no energy"
+    },
+    {
+        "japanese": "のそり",
+        "english": "moving slowly (and dull-wittedly)"
+    },
+    {
+        "japanese": "きらり",
+        "english": "with a momentary flash of light"
+    },
+    {
+        "japanese": "ほかほか",
+        "english": "comfortably warm; steaming hot (food); piping hot; glowing (with warmth)"
+    },
+    {
+        "japanese": "たんと",
+        "english": "many; much; a great amount"
+    },
+    {
+        "japanese": "のっそり",
+        "english": "sluggishly; slowly; ploddingly; lumbering"
+    },
+    {
+        "japanese": "ぞろり",
+        "english": "all together in a line; all together in a lump"
+    },
+    {
+        "japanese": "きりっと",
+        "english": "having a crisp appearance; stiffly; tensely; smartly (e.g. dressed); neatly"
+    },
+    {
+        "japanese": "ついつい",
+        "english": "unintentionally; unconsciously; by mistake; heedlessly; against one's better judgement (judgment)"
+    },
+    {
+        "japanese": "きりり",
+        "english": "stiff and slackless; tense without any looseness"
+    },
+    {
+        "japanese": "トコトコ",
+        "english": "briskly with small steps; trotting"
+    },
+    {
+        "japanese": "ギクシャク",
+        "english": "awkward (movements, speech, etc.); jerky; stiff; stilted"
+    },
+    {
+        "japanese": "どたりと",
+        "english": "with a flop; flump; plump"
+    },
+    {
+        "japanese": "ぎゅう",
+        "english": "squeezing something tightly; sound made by someone (or something) being squeezed"
+    },
+    {
+        "japanese": "うだうだ",
+        "english": "going on and on (about inconsequential things); talking nonsense"
+    },
+    {
+        "japanese": "ゴクリ",
+        "english": "gulpingly; in one gulp"
+    },
+    {
+        "japanese": "ゲラゲラ",
+        "english": "guffawing; roaring (with laughter); (laughing) heartily"
+    },
+    {
+        "japanese": "とろとろ",
+        "english": "sticky; syrupy; pulpy"
+    },
+    {
+        "japanese": "すたすた",
+        "english": "(walk) briskly; at a brisk pace; quickly"
+    },
+    {
+        "japanese": "べちゃべちゃ",
+        "english": "chattering; prattling; gooey; messy (from mud, ink, etc.)"
+    },
+    {
+        "japanese": "ともすると",
+        "english": "apt to (do); liable to; prone to"
+    },
+    {
+        "japanese": "しれっと",
+        "english": "nonchalantly; calmly; as if nothing happened"
+    },
+    {
+        "japanese": "がたっと",
+        "english": "with a clunk; with a clank"
+    },
+    {
+        "japanese": "びちゃびちゃ",
+        "english": "splashing; dabbling"
+    },
+    {
+        "japanese": "じわり",
+        "english": "gradually; slowly but steadily"
+    },
+    {
+        "japanese": "ちゃんちゃん",
+        "english": "regularly; promptly"
+    },
+    {
+        "japanese": "べったり",
+        "english": "sticking; clinging"
+    },
+    {
+        "japanese": "ぴたっと",
+        "english": "tightly; closely"
+    },
+    {
+        "japanese": "どてん",
+        "english": "(with a) thud"
+    },
+    {
+        "japanese": "すぽっと",
+        "english": "snugly (into hole, container, etc.); tightly (fitting, covering); firmly"
+    },
+    {
+        "japanese": "ぼくぼく",
+        "english": "(of soil, etc.) soft, dry and crumbly"
+    },
+    {
+        "japanese": "ゆさゆさ",
+        "english": "swaying (with large slow movements); shaking"
+    },
+    {
+        "japanese": "やいやい",
+        "english": "pressingly; demandingly"
+    },
+    {
+        "japanese": "じんわり",
+        "english": "gradually (progressing); steadily; slowly"
+    },
+    {
+        "japanese": "ぴちっと",
+        "english": "tightly; snugly"
+    },
+    {
+        "japanese": "くつくつ",
+        "english": "stifled (laughter)"
+    },
+    {
+        "japanese": "ゾワゾワ",
+        "english": "chillingly; shiveringly; with goosebumps; uncomfortably; restlessly"
+    },
+    {
+        "japanese": "ちょろちょろ",
+        "english": "trickling (of water)"
+    },
+    {
+        "japanese": "ゴツンゴツン",
+        "english": "thumping; banging"
+    },
+    {
+        "japanese": "ぬらぬら",
+        "english": "slimy; slippery"
+    },
+    {
+        "japanese": "じゃんじゃか",
+        "english": "noisily (playing a musical instrument)"
+    },
+    {
+        "japanese": "ドスドス",
+        "english": "noisily (walking)"
+    },
+    {
+        "japanese": "ぱくぱく",
+        "english": "repeatedly opening and closing (one's mouth); gasping"
+    },
+    {
+        "japanese": "ゴツン",
+        "english": "thud; thump; bang"
+    },
+    {
+        "japanese": "りんりん",
+        "english": "bell ringing (chiming)"
+    },
+    {
+        "japanese": "にたにた",
+        "english": "with a broad grin; smirking"
+    },
+    {
+        "japanese": "えへらえへら",
+        "english": "with a meaningless laugh; with a hollow laugh"
+    },
+    {
+        "japanese": "すぽん",
+        "english": "snugly (into hole, container, etc.); tightly (fitting, covering); firmly"
+    },
+    {
+        "japanese": "むっくり",
+        "english": "abruptly (rising)"
+    },
+    {
+        "japanese": "すぽり",
+        "english": "snugly (into hole, container, etc.); tightly (fitting, covering); firmly"
+    },
+    {
+        "japanese": "じゅるり",
+        "english": "sound effect for slurping back up excess saliva (e.g. as stimulated by desire for food)"
+    },
+    {
+        "japanese": "ピコピコ",
+        "english": "blip bleep"
+    },
+    {
+        "japanese": "ズブズブ",
+        "english": "(sink) deeply (into mud, snow, etc.)"
+    },
+    {
+        "japanese": "イガイガ",
+        "english": "bur (of a chestnut, etc.); burr"
+    },
+    {
+        "japanese": "ぱっちり",
+        "english": "wide open (of eyes); large and bright (eyes)"
+    },
+    {
+        "japanese": "うっぷ",
+        "english": "burp; belch"
+    },
+    {
+        "japanese": "びらびら",
+        "english": "fluttering (esp. of thick or heavy material)"
+    },
+    {
+        "japanese": "ドブン",
+        "english": "plop; splash"
+    },
+    {
+        "japanese": "どたりと",
+        "english": "with a flop; flump; plump"
+    },
+    {
+        "japanese": "ぽっきり",
+        "english": "snappingly; with a snap"
+    },
+    {
+        "japanese": "ゲラゲラ",
+        "english": "guffawing; roaring (with laughter); (laughing) heartily"
+    },
+    {
+        "japanese": "とろとろ",
+        "english": "sticky; syrupy; pulpy"
+    },
+    {
+        "japanese": "どてん",
+        "english": "(with a) thud"
+    },
+    {
+        "japanese": "しれっと",
+        "english": "nonchalantly; calmly; as if nothing happened"
+    },
+    {
+        "japanese": "ほろほろ",
+        "english": "by ones and twos"
+    },
+    {
+        "japanese": "ぼくぼく",
+        "english": "(of soil, etc.) soft, dry and crumbly"
+    },
+    {
+        "japanese": "ぽっこり",
+        "english": "bulging (esp. stomach); sticking out"
+    },
+    {
+        "japanese": "やいやい",
+        "english": "pressingly; demandingly"
+    },
+    {
+        "japanese": "びちゃびちゃ",
+        "english": "splashing; dabbling"
+    },
+    {
+        "japanese": "しめじめ",
+        "english": "damply; humidly; soggily"
+    },
+    {
+        "japanese": "じわり",
+        "english": "gradually; slowly but steadily"
+    },
+    {
+        "japanese": "ちゃんちゃん",
+        "english": "regularly; promptly"
+    },
+    {
+        "japanese": "ぼりぼり",
+        "english": "munching; crunching"
+    },
+    {
+        "japanese": "ぴたっと",
+        "english": "tightly; closely"
+    },
+    {
+        "japanese": "すぽっと",
+        "english": "snugly (into hole, container, etc.); tightly (fitting, covering); firmly"
+    },
+    {
+        "japanese": "ぺったん",
+        "english": "flattening"
+    },
+    {
+        "japanese": "ゆさゆさ",
+        "english": "swaying (with large slow movements); shaking"
+    },
+    {
+        "japanese": "ドスドス",
+        "english": "noisily (walking)"
+    },
+    {
+        "japanese": "さやさや",
+        "english": "soft, light rustling (e.g. leaves in the wind)"
+    },
+    {
+        "japanese": "パフ",
+        "english": "parp (horn sound)"
+    },
+    {
+        "japanese": "ごぼっ",
+        "english": "gurgling down; being sucked into; caving in suddenly"
+    },
+    {
+        "japanese": "じゅうじゅう",
+        "english": "sizzling (of cooking meat, fish, etc.); frizzling"
+    },
+    {
+        "japanese": "チューチュー",
+        "english": "squeak; cheep; peep"
+    },
+    {
+        "japanese": "さっくり",
+        "english": "lightly; gently"
+    },
+    {
+        "japanese": "ギスギス",
+        "english": "stiff (atmosphere, manner, etc.); cold; unfriendly; unsociable; edgy"
+    },
+    {
+        "japanese": "ちゃぷちゃぷ",
+        "english": "splish-splash; glug-glug"
+    },
+    {
+        "japanese": "ぎゅぎゅ",
+        "english": "snoringly"
+    },
+    {
+        "japanese": "するり",
+        "english": "with a smooth, unhindered motion; speedily and without delay"
+    },
+    {
+        "japanese": "なんたらかんたら",
+        "english": "something or other; what-do-you-call-it; what-do-you-call-them"
+    },
+    {
+        "japanese": "ベロリ",
+        "english": "slurping; lapping"
+    },
+    {
+        "japanese": "ほいほい",
+        "english": "recklessly; thoughtlessly; carelessly; readily; blithely; willingly; easily"
+    },
+    {
+        "japanese": "むむ",
+        "english": "hum; hmm"
+    },
+    {
+        "japanese": "すかり",
+        "english": "net for caught fish"
+    },
+    {
+        "japanese": "にゃんにゃん",
+        "english": "meow; miaow"
+    },
+    {
+        "japanese": "ゲソゲソ",
+        "english": "looking very thin"
+    },
+    {
+        "japanese": "きしり",
+        "english": "creak; squeak"
+    },
+    {
+        "japanese": "がたん",
+        "english": "with a bang; with a crash; with a bump; with a jolt"
+    },
+    {
+        "japanese": "ぎくぎく",
+        "english": "jerkily"
+    },
+    {
+        "japanese": "そろっと",
+        "english": "soon; momentarily; before long; any time now"
+    },
+    {
+        "japanese": "ぽろぽろ",
+        "english": "in large drops"
+    },
+    {
+        "japanese": "ばきっと",
+        "english": "snapping (e.g. branch)"
+    },
+    {
+        "japanese": "ギチギチ",
+        "english": "creakily"
+    },
+    {
+        "japanese": "ぎろぎろ",
+        "english": "glaringly (staring)"
+    },
+    {
+        "japanese": "にゃーにゃー",
+        "english": "meow; miaow"
+    },
+    {
+        "japanese": "グチャ",
+        "english": "splat!"
+    },
+    {
+        "japanese": "ごそっと",
+        "english": "completely; entirely; wholly"
+    },
+    {
+        "japanese": "ぐじゃぐじゃ",
+        "english": "soggy; soaking; drenched"
+    },
+    {
+        "japanese": "ホルホル",
+        "english": "self-satisfaction (esp. in a nationalistic sense); smugness"
+    },
+    {
+        "japanese": "そろり",
+        "english": "slowly and quietly"
+    },
+    {
+        "japanese": "ぐんぐん",
+        "english": "rapidly; vigorously; by leaps and bounds; steadily"
+    },
+    {
+        "japanese": "みんみん",
+        "english": "sound of the cicadas"
+    },
+    {
+        "japanese": "すっくり",
+        "english": "straight; upright; erect"
+    },
+    {
+        "japanese": "ちょっきり",
+        "english": "exactly; just"
+    },
+    {
+        "japanese": "つっと",
+        "english": "quickly; smoothly"
+    },
+    {
+        "japanese": "てらてら",
+        "english": "gleamingly; shinily"
+    },
+    {
+        "japanese": "しめじめ",
+        "english": "damply; humidly; soggily"
+    },
+    {
+        "japanese": "のめのめ",
+        "english": "shamelessly"
+    },
+    {
+        "japanese": "じくじく",
+        "english": "oozing; damp; sodden"
+    },
+    {
+        "japanese": "ぴよぴよ",
+        "english": "cheep cheep; tweet tweet"
+    },
+    {
+        "japanese": "クスッと",
+        "english": "slipping out (a chuckle, giggle); unintentionally (letting out a quiet laugh)"
+    },
+    {
+        "japanese": "ぴっちり",
+        "english": "tightly; snugly"
+    },
+    {
+        "japanese": "げんなり",
+        "english": "to be weary; to be worn out; to be tired"
+    },
+    {
+        "japanese": "じたばた",
+        "english": "(kicking and) struggling; wriggling; floundering; flailing"
+    },
+    {
+        "japanese": "よぼよぼ",
+        "english": "doddering; tottering; unsteady; shaky; decrepit; infirm; frail; feeble"
+    },
+    {
+        "japanese": "からっと",
+        "english": "bright and clear (weather, sky, etc.); perfectly (fine weather)"
+    },
+    {
+        "japanese": "ごしゃごしゃ",
+        "english": "jumbled; disarrayed; messy"
+    },
+    {
+        "japanese": "どうどう",
+        "english": "with a roaring sound (of water or wind); sound of feet stamping on the ground"
+    },
+    {
+        "japanese": "ピーポー",
+        "english": "nee-naw (sound of an emergency vehicle siren); wee-woo"
+    },
+    {
+        "japanese": "たらり",
+        "english": "drop-by-drop; dripping; dribbling; in a trickle"
+    },
+    {
+        "japanese": "はらり",
+        "english": "gently (falling)"
+    },
+    {
+        "japanese": "バチバチ",
+        "english": "crackling (of fire, fireworks, etc.); sparking; sputtering; spitting"
+    },
+    {
+        "japanese": "ほろり",
+        "english": "being moved (to tears); being touched (by); becoming sentimental"
+    },
+    {
+        "japanese": "へこへこ",
+        "english": "pliantly; pliably"
+    },
+    {
+        "japanese": "ビシャビシャ",
+        "english": "soaked; drenched; sopping; slushy"
+    },
+    {
+        "japanese": "わあわあ",
+        "english": "loudly (wailing, making a noise, etc.)"
+    },
+    {
+        "japanese": "もっそり",
+        "english": "slowly"
+    },
+    {
+        "japanese": "ちち",
+        "english": "chirp; tweet; chirrup; cheep"
+    },
+    {
+        "japanese": "かっちり",
+        "english": "tightly; exactly; precisely"
+    },
+    {
+        "japanese": "バチコーン",
+        "english": "thwap; smack"
+    },
+    {
+        "japanese": "じとっと",
+        "english": "damply; moistly; clammily; stickily"
+    },
+    {
+        "japanese": "ポロリ",
+        "english": "dropping (of tears, dew, etc.)"
+    },
+    {
+        "japanese": "まじまじ",
+        "english": "staringly; fixedly; unblinkingly"
+    },
+    {
+        "japanese": "ポロっと",
+        "english": "dropping (of tears, dew, etc.)"
+    },
+    {
+        "japanese": "ぺったん",
+        "english": "flattening"
+    },
+    {
+        "japanese": "ちらりほらり",
+        "english": "here and there; in twos and threes; sporadically; sparsely"
+    },
+    {
+        "japanese": "ぴしり",
+        "english": "with a click; with a snap"
+    },
+    {
+        "japanese": "むっちり",
+        "english": "plump; chubby; voluptuous"
+    },
+    {
+        "japanese": "どすっと",
+        "english": "thump; thud; bump; clunk"
+    },
+    {
+        "japanese": "ぎっくり",
+        "english": "with surprise; with a start"
+    },
+    {
+        "japanese": "よたよた",
+        "english": "unsteadily (walking); waddling; staggeringly; totteringly"
+    },
+    {
+        "japanese": "もさっと",
+        "english": "absentmindedly; vacantly; dully"
+    },
+    {
+        "japanese": "ウッキー",
+        "english": "ook; ook-ook"
+    },
+    {
+        "japanese": "ぎりぎり",
+        "english": "grinding (sound); grating; gnashing"
+    },
+    {
+        "japanese": "グニュッと",
+        "english": "gooily; with a squeeze; squishily; with a squish"
+    },
+    {
+        "japanese": "じっぱり",
+        "english": "a lot; many; much"
+    },
+    {
+        "japanese": "そぼそぼ",
+        "english": "drizzling (rain)"
+    },
+    {
+        "japanese": "にゅっと",
+        "english": "suddenly (appear, stick out); abruptly; unexpectedly; looming (e.g. out of the dark)"
+    },
+    {
+        "japanese": "ぼっと",
+        "english": "with a roar (of flames); with a whoosh; flaring up"
+    },
+    {
+        "japanese": "はらり",
+        "english": "gently (falling)"
+    },
+    {
+        "japanese": "ホルホル",
+        "english": "self-satisfaction (esp. in a nationalistic sense); smugness"
+    },
+    {
+        "japanese": "うそうそ",
+        "english": "uneasily; restlessly; erratically"
+    },
+    {
+        "japanese": "ぐんぐん",
+        "english": "rapidly; vigorously; by leaps and bounds; steadily"
+    },
+    {
+        "japanese": "ごしゃごしゃ",
+        "english": "jumbled; disarrayed; messy"
+    },
+    {
+        "japanese": "パフ",
+        "english": "parp (horn sound)"
+    },
+    {
+        "japanese": "ワタワタ",
+        "english": "flustered; confused; panicked"
+    },
+    {
+        "japanese": "へこへこ",
+        "english": "pliantly; pliably"
+    },
+    {
+        "japanese": "キュンキュン",
+        "english": "heart-wrenchingly; with a thrill in one's heart"
+    },
+    {
+        "japanese": "ごくごく",
+        "english": "(drinking) in big gulps"
+    },
+    {
+        "japanese": "すかり",
+        "english": "net for caught fish"
+    },
+    {
+        "japanese": "クスッと",
+        "english": "slipping out (a chuckle, giggle); unintentionally (letting out a quiet laugh)"
+    },
+    {
+        "japanese": "きしり",
+        "english": "creak; squeak"
+    },
+    {
+        "japanese": "げんなり",
+        "english": "to be weary; to be worn out; to be tired"
+    },
+    {
+        "japanese": "ぎくぎく",
+        "english": "jerkily"
+    },
+    {
+        "japanese": "よぼよぼ",
+        "english": "doddering; tottering; unsteady; shaky; decrepit; infirm; frail; feeble"
+    },
+    {
+        "japanese": "からっと",
+        "english": "bright and clear (weather, sky, etc.); perfectly (fine weather)"
+    },
+    {
+        "japanese": "ギチギチ",
+        "english": "creakily"
+    },
+    {
+        "japanese": "どうどう",
+        "english": "with a roaring sound (of water or wind); sound of feet stamping on the ground"
+    },
+    {
+        "japanese": "ぎろぎろ",
+        "english": "glaringly (staring)"
+    },
+    {
+        "japanese": "ぽっきり",
+        "english": "snappingly; with a snap"
+    },
+    {
+        "japanese": "ゴリゴリ",
+        "english": "with a scraping sound; with a grating sound; with a scratching sound"
+    },
+    {
+        "japanese": "ごとん",
+        "english": "thump; clang; clank"
+    },
+    {
+        "japanese": "びしり",
+        "english": "with a snap; (break) cleanly"
+    },
+    {
+        "japanese": "しょぼしょぼ",
+        "english": "drizzling (rain)"
+    },
+    {
+        "japanese": "ワタワタ",
+        "english": "flustered; confused; panicked"
+    },
+    {
+        "japanese": "ガビガビ",
+        "english": "dried stiff (esp. of something sticky)"
+    },
+    {
+        "japanese": "きゅっと",
+        "english": "creakingly; squeakingly; squealingly"
+    },
+    {
+        "japanese": "わさわさ",
+        "english": "restless; fidgety; lively; busy"
+    },
+    {
+        "japanese": "ギタギタ",
+        "english": "severely beaten up; thoroughly defeated; completely destroyed"
+    },
+    {
+        "japanese": "ガシャン",
+        "english": "crash; smash; crunch; bang; breaking sound"
+    },
+    {
+        "japanese": "ワン",
+        "english": "woof; arf; bow-wow"
+    },
+    {
+        "japanese": "ムギュウ",
+        "english": "squeezing; hug; hugging"
+    },
+    {
+        "japanese": "ガツン",
+        "english": "klop; klunk; whonk; crash; thump"
+    },
+    {
+        "japanese": "ベリベリ",
+        "english": "beriberi"
+    },
+    {
+        "japanese": "ちょっぴし",
+        "english": "a tiny bit; just a smidgin; a wee bit; very slightly"
+    },
+    {
+        "japanese": "チクタク",
+        "english": "tick-tock; tick-tack; sound of clock"
+    },
+    {
+        "japanese": "ムチムチ",
+        "english": "plump; chubby; voluptuous"
+    },
+    {
+        "japanese": "ぴょいと",
+        "english": "lightly and nimbly; with agility"
+    },
+    {
+        "japanese": "ピクリ",
+        "english": "with a twitch (e.g. an eyebrow); with a dip; with a bob; with a flutter"
+    },
+    {
+        "japanese": "ボカッ",
+        "english": "bop; pow; bonk; thump"
+    },
+    {
+        "japanese": "ゲフンゲフン",
+        "english": "ahem; cough-cough; noise in lieu of a comment or contrary view"
+    },
+    {
+        "japanese": "ずしっと",
+        "english": "heavily; profoundly"
+    },
+    {
+        "japanese": "こん",
+        "english": "with a bump; with a clunk"
+    },
+    {
+        "japanese": "ギラリ",
+        "english": "staring (e.g. eyes); goggling; glaring"
+    },
+    {
+        "japanese": "ごんごん",
+        "english": "bang; clang"
+    },
+    {
+        "japanese": "ぐりぐり",
+        "english": "hard lump under the skin (e.g. adipous tumor, lymph node tumor, etc.)"
+    },
+    {
+        "japanese": "どさり",
+        "english": "with a thud"
+    },
+    {
+        "japanese": "トンテンカン",
+        "english": "clanging (of a hammer); clanking; chinking"
+    },
+    {
+        "japanese": "ドシンドシン",
+        "english": "walking (with heavy steps); tramping; lumbering; clumping"
+    },
+    {
+        "japanese": "にゅるっと",
+        "english": "with a wriggle; in a slimy way; coweringly; hesitantly"
+    },
+    {
+        "japanese": "ごちょごちょ",
+        "english": "(going) on and on (about trivial matters); (complaining about) this and that; trivially (chatting)"
+    },
+    {
+        "japanese": "シューシュー",
+        "english": "hiss; fizz; woosh; swish; whiz"
+    },
+    {
+        "japanese": "メーメー",
+        "english": "baa (sound made by sheep); meh"
+    },
+    {
+        "japanese": "ブスブス",
+        "english": "sputtering; smoldering"
+    },
+    {
+        "japanese": "ちょん",
+        "english": "clap (sound of wooden clappers)"
+    },
+    {
+        "japanese": "へなへな",
+        "english": "weakly; helplessly"
+    },
+    {
+        "japanese": "ぎこぎこ",
+        "english": "squeak squeak; squeaking"
+    },
+    {
+        "japanese": "ふかふか",
+        "english": "soft (and fluffy) (e.g. bed, bread, baked potato)"
+    },
+    {
+        "japanese": "くすくす",
+        "english": "chuckle; giggle"
+    },
+    {
+        "japanese": "ぴゅう",
+        "english": "whiz (e.g. projectile through air); swoosh; whoosh; whistling sound"
+    },
+    {
+        "japanese": "ピチャリ",
+        "english": "sound of a small wave hitting the shore; sound of a whip; sound of a slap"
+    },
+    {
+        "japanese": "ぶすっと",
+        "english": "with a plunge (of something sharp into something soft); with a thrust; with a stab"
+    },
+    {
+        "japanese": "こてんこてん",
+        "english": "completely (beaten, defeated, etc.); thoroughly; utterly; black and blue; to a pulp"
+    },
+    {
+        "japanese": "スンスン",
+        "english": "sniffing; sniffling"
+    },
+    {
+        "japanese": "バンバン",
+        "english": "with a bang bang (e.g. repeated sound of a hammer or gunfire)"
+    },
+    {
+        "japanese": "てへぺろ",
+        "english": "laughing embarrassedly and sticking out one's tongue"
+    },
+    {
+        "japanese": "でかでか",
+        "english": "in a big way"
+    },
+    {
+        "japanese": "ズシン",
+        "english": "thud"
+    },
+    {
+        "japanese": "ワン",
+        "english": "woof; arf; bow-wow"
+    },
+    {
+        "japanese": "チクタク",
+        "english": "tick-tock; tick-tack; sound of clock"
+    },
+    {
+        "japanese": "ビョンビョン",
+        "english": "bouncily; with a stretch; with a boing"
+    },
+    {
+        "japanese": "キコキコ",
+        "english": "with a squeaking sound (of metal)"
+    },
+    {
+        "japanese": "のたり",
+        "english": "relaxedly; leisurely; slowly; calmly"
+    },
+    {
+        "japanese": "にゅるり",
+        "english": "with a wriggle; in a slithering motion; in a squiggle; with a spurt"
+    },
+    {
+        "japanese": "ムチムチ",
+        "english": "plump; chubby; voluptuous"
+    },
+    {
+        "japanese": "パリン",
+        "english": "with a crack; with a smash"
+    },
+    {
+        "japanese": "ちゃりん",
+        "english": "with a clink (of metal); with a chink"
+    },
+    {
+        "japanese": "ばたっと",
+        "english": "with a thud; with a flop; with a plop; with a snap; with a crash"
+    },
+    {
+        "japanese": "ちち",
+        "english": "chirp; tweet; chirrup; cheep"
+    },
+    {
+        "japanese": "ポトン",
+        "english": "with a plop; with a plonk; with a plunk; with a flop"
+    },
+    {
+        "japanese": "じっとり",
+        "english": "damply; moistly; clammily; stickily"
+    },
+    {
+        "japanese": "ズシン",
+        "english": "thud"
+    },
+    {
+        "japanese": "バキバキ",
+        "english": "with a crack (e.g. branches, knuckles)"
+    },
+    {
+        "japanese": "パチン",
+        "english": "with a click; with a snap"
+    },
+    {
+        "japanese": "ダボダボ",
+        "english": "loose (of clothing); loose-fitting"
+    },
+    {
+        "japanese": "ボーボー",
+        "english": "vigorously (burning); furiously; fiercely"
+    },
+    {
+        "japanese": "しねしね",
+        "english": "soft and elastic; flexible; pliant"
+    },
+    {
+        "japanese": "メリメリ",
+        "english": "cracking; splitting; ripping; crashing; creaking; groaning"
+    },
+    {
+        "japanese": "ドスンドスン",
+        "english": "thud thud (esp. footsteps); clump clump"
+    },
+    {
+        "japanese": "グサッと",
+        "english": "deeply (stab, thrust, etc.); hard"
+    },
+    {
+        "japanese": "ひゅーっ",
+        "english": "(with a) whizzing sound; sound of something whizzing by"
+    },
+    {
+        "japanese": "もしゃもしゃ",
+        "english": "tousled; shaggy (hair); scraggly (beard); dishevelled; disheveled; unkempt"
+    },
+    {
+        "japanese": "バッチシ",
+        "english": "perfectly; right on the mark; spot on; bang on"
+    },
+    {
+        "japanese": "シコシコ",
+        "english": "chewy; springy; al dente"
+    },
+    {
+        "japanese": "モーモー",
+        "english": "moo (sound of a cow)"
+    },
+    {
+        "japanese": "ずらずら",
+        "english": "in succession; in an endless stream; continuing without pause or interruption"
+    },
+    {
+        "japanese": "ぴえん",
+        "english": "boohoo; boo hoo; sniff sniff; sob sob; waa waa"
+    },
+    {
+        "japanese": "かぴかぴ",
+        "english": "crusty; flaky; dried out"
+    },
+    {
+        "japanese": "ぱさり",
+        "english": "with a light thud"
+    },
+    {
+        "japanese": "ドスンドスン",
+        "english": "thud thud (esp. footsteps); clump clump"
+    },
+    {
+        "japanese": "グサッと",
+        "english": "deeply (stab, thrust, etc.); hard"
+    },
+    {
+        "japanese": "どたんばたん",
+        "english": "banging around (e.g. in a fight)"
+    },
+    {
+        "japanese": "ひゅーっ",
+        "english": "(with a) whizzing sound; sound of something whizzing by"
+    },
+    {
+        "japanese": "もしゃもしゃ",
+        "english": "tousled; shaggy (hair); scraggly (beard); dishevelled; disheveled; unkempt"
+    },
+    {
+        "japanese": "バッチシ",
+        "english": "perfectly; right on the mark; spot on; bang on"
+    },
+    {
+        "japanese": "シコシコ",
+        "english": "chewy; springy; al dente"
+    },
+    {
+        "japanese": "モーモー",
+        "english": "moo (sound of a cow)"
+    },
+    {
+        "japanese": "プツリ",
+        "english": "(breaking) with a snap (of a thread, string, etc.)"
+    },
+    {
+        "japanese": "がじがじ",
+        "english": "biting; gnawing"
+    },
+    {
+        "japanese": "ごとり",
+        "english": "with a thump; with a clang; with a clank"
+    },
+    {
+        "japanese": "ずらずら",
+        "english": "in succession; in an endless stream; continuing without pause or interruption"
+    },
+    {
+        "japanese": "ぴえん",
+        "english": "boohoo; boo hoo; sniff sniff; sob sob; waa waa"
+    },
+    {
+        "japanese": "かぴかぴ",
+        "english": "crusty; flaky; dried out"
+    },
+    {
+        "japanese": "ぱさり",
+        "english": "with a light thud"
+    },
+    {
+        "japanese": "ばっさり",
+        "english": "(cutting) with a single stroke; lopping off (branches, etc.); (cutting hair) short"
+    },
+    {
+        "japanese": "すっぱ",
+        "english": "cleanly (cutting, snapping off, etc.); in a single blow"
+    },
+    {
+        "japanese": "ばさっと",
+        "english": "with a flap; with a snap; with a thud; with a crash; with a swish; with a rustle"
+    },
+    {
+        "japanese": "ふっくり",
+        "english": "fully; luxuriantly; fluffy; plump; soft and full; corpulent"
+    },
+    {
+        "japanese": "デレデレ",
+        "english": "idling; lazing; slovenly"
+    },
+    {
+        "japanese": "だくだく",
+        "english": "gushing out (e.g. sweat or blood); flowing profusely"
+    },
+    {
+        "japanese": "ブッブー",
+        "english": "bzzz"
+    },
+    {
+        "japanese": "スコスコ",
+        "english": "repeatedly; leaving no stone unturned; walking rapidly"
+    },
+    {
+        "japanese": "きちんきちん",
+        "english": "correctly; properly; accurately"
+    },
+    {
+        "japanese": "ばっさり",
+        "english": "(cutting) with a single stroke; lopping off (branches, etc.); (cutting hair) short"
+    },
+    {
+        "japanese": "すっぱ",
+        "english": "cleanly (cutting, snapping off, etc.); in a single blow"
+    },
+    {
+        "japanese": "ばさっと",
+        "english": "with a flap; with a snap; with a thud; with a crash; with a swish; with a rustle"
+    },
+    {
+        "japanese": "ふっくり",
+        "english": "fully; luxuriantly; fluffy; plump; soft and full; corpulent"
+    },
+    {
+        "japanese": "デレデレ",
+        "english": "idling; lazing; slovenly"
+    },
+    {
+        "japanese": "ぐにゃっと",
+        "english": "flabbily; softly; limply; easily (bend); effortlessly; flexibly; mushily"
+    },
+    {
+        "japanese": "ちろちろ",
+        "english": "flicker (light); waver"
+    },
+    {
+        "japanese": "ぐにゃり",
+        "english": "flabbily; softly; limply; easily (bend); effortlessly; flexibly; mushily"
+    },
+    {
+        "japanese": "ガビーン",
+        "english": "oh no!"
+    },
+    {
+        "japanese": "トホホ",
+        "english": "boo-hoo; boo-hoo-hoo"
+    },
+    {
+        "japanese": "ねっちり",
+        "english": "stickily; glutinously"
+    },
+    {
+        "japanese": "ぽよぽよ",
+        "english": "soft; bouncy"
+    },
+    {
+        "japanese": "たゆんたゆん",
+        "english": "bouncy (esp. of breasts)"
+    },
+    {
+        "japanese": "のしのし",
+        "english": "walking heavily; lumbering"
+    },
+    {
+        "japanese": "びよーん",
+        "english": "sproing; boing"
+    },
+    {
+        "japanese": "ムクと",
+        "english": "abruptly (rising)"
+    },
+    {
+        "japanese": "ぽくぽく",
+        "english": "rhythmically (beating, e.g. gong)"
+    },
+    {
+        "japanese": "ぽよぽよ",
+        "english": "soft; bouncy"
+    },
+    {
+        "japanese": "たゆんたゆん",
+        "english": "bouncy (esp. of breasts)"
+    },
+    {
+        "japanese": "のしのし",
+        "english": "walking heavily; lumbering"
+    },
+    {
+        "japanese": "びよーん",
+        "english": "sproing; boing"
+    },
+    {
+        "japanese": "ムクと",
+        "english": "abruptly (rising)"
+    },
+    {
+        "japanese": "ずぼり",
+        "english": "vigorously; really getting stuck into"
+    },
+    {
+        "japanese": "ざぶりざぶり",
+        "english": "sound of living, moving water"
+    },
+    {
+        "japanese": "ピタピタ",
+        "english": "with a patting motion; lightly (tapping)"
+    },
+    {
+        "japanese": "がちんがちん",
+        "english": "tick-tock; chipping (sound)"
+    },
+    {
+        "japanese": "コトコト",
+        "english": "gentle clinking; sound of rapping; sound of rattling; sound of lightly chopping"
+    },
+    {
+        "japanese": "フーフー",
+        "english": "blowing repeatedly (e.g. to cool something down)"
+    },
+    {
+        "japanese": "じとじと",
+        "english": "damp; wet; soaked; humid; clammy"
+    },
+    {
+        "japanese": "ゆくと",
+        "english": "slowly; unhurriedly; without haste; leisurely; at one's leisure"
+    },
+    {
+        "japanese": "チョキチョキ",
+        "english": "snipping sound; cutting sound; to cut"
+    },
+    {
+        "japanese": "つるり",
+        "english": "smoothly; with a slipping or sliding motion"
+    },
+    {
+        "japanese": "こてんこてん",
+        "english": "completely (beaten, defeated, etc.); thoroughly; utterly; black and blue; to a pulp"
+    },
+    {
+        "japanese": "ギンッ",
+        "english": "sharply (glare, stare, etc.); piercingly; stinging"
+    },
+    {
+        "japanese": "たぶたぶ",
+        "english": "brimming; full to the point of overflowing"
+    },
+    {
+        "japanese": "てへぺろ",
+        "english": "laughing embarrassedly and sticking out one's tongue"
+    },
+    {
+        "japanese": "ゆくと",
+        "english": "slowly; unhurriedly; without haste; leisurely; at one's leisure"
+    },
+    {
+        "japanese": "チョキチョキ",
+        "english": "snipping sound; cutting sound; to cut"
+    },
+    {
+        "japanese": "つるり",
+        "english": "smoothly; with a slipping or sliding motion"
+    },
+    {
+        "japanese": "こてんこてん",
+        "english": "completely (beaten, defeated, etc.); thoroughly; utterly; black and blue; to a pulp"
+    },
+    {
+        "japanese": "ギンッ",
+        "english": "sharply (glare, stare, etc.); piercingly; stinging"
+    },
+    {
+        "japanese": "たぶたぶ",
+        "english": "brimming; full to the point of overflowing"
+    },
+    {
+        "japanese": "てへぺろ",
+        "english": "laughing embarrassedly and sticking out one's tongue"
+    },
+    {
+        "japanese": "くちゃくちゃ",
+        "english": "(eating) noisily; (chewing) with an open mouth; while smacking"
+    },
+    {
+        "japanese": "シュポシュポ",
+        "english": "pump-pump"
+    },
+    {
+        "japanese": "ばちゃん",
+        "english": "with a splash"
+    },
+    {
+        "japanese": "ぽい",
+        "english": "carelessly (throwing, tossing, etc.); nonchalantly; casually"
+    },
+    {
+        "japanese": "ドタン",
+        "english": "thud"
+    },
+    {
+        "japanese": "ぴょこぴょこ",
+        "english": "up and down; lightly; nimbly; moving in small leaps as a frog or rabbit"
+    },
+    {
+        "japanese": "もっこり",
+        "english": "bulging (esp. of male genitals under clothing)"
+    },
+    {
+        "japanese": "どっぴゅ",
+        "english": "sound of something being powerfully ejected"
+    },
+    {
+        "japanese": "タポタポ",
+        "english": "bloated (with liquid; of a stomach)"
+    },
+    {
+        "japanese": "ｇｋｂｒ",
+        "english": "trembling with fear"
+    },
+    {
+        "japanese": "ことん",
+        "english": "clunk; thump"
+    },
+    {
+        "japanese": "ガクガクブルブル",
+        "english": "chattering (of teeth) and trembling (with fear)"
+    },
+    {
+        "japanese": "ぴゅう",
+        "english": "whiz (e.g. projectile through air); swoosh; whoosh; whistling sound"
+    },
+    {
+        "japanese": "どっぴゅ",
+        "english": "sound of something being powerfully ejected"
+    },
+    {
+        "japanese": "タポタポ",
+        "english": "bloated (with liquid; of a stomach)"
+    },
+    {
+        "japanese": "きゅう",
+        "english": "(rubbing, twisting) hard; with a squeal; with a creak"
+    },
+    {
+        "japanese": "ｇｋｂｒ",
+        "english": "trembling with fear"
+    },
+    {
+        "japanese": "ことん",
+        "english": "clunk; thump"
+    },
+    {
+        "japanese": "ガクガクブルブル",
+        "english": "chattering (of teeth) and trembling (with fear)"
+    },
+    {
+        "japanese": "ぴゅう",
+        "english": "whiz (e.g. projectile through air); swoosh; whoosh; whistling sound"
+    },
+    {
+        "japanese": "ヌレヌレ",
+        "english": "viscously; sticky; gooey"
+    },
+    {
+        "japanese": "ピーン",
+        "english": "ding; ping"
+    },
+    {
+        "japanese": "がたんごとん",
+        "english": "clickety-clack"
+    },
+    {
+        "japanese": "パシャン",
+        "english": "splash; sploosh"
+    },
+    {
+        "japanese": "プンスカ",
+        "english": "angrily; in a huff"
+    },
+    {
+        "japanese": "ぽそっと",
+        "english": "whispering; murmuring; subdued"
+    },
+    {
+        "japanese": "ジュポジュポ",
+        "english": "slurp-slurp; suck-suck; sound of blowjob suction"
+    },
+    {
+        "japanese": "ピチャリ",
+        "english": "sound of a small wave hitting the shore; sound of a whip; sound of a slap"
+    },
+    {
+        "japanese": "ほーほー",
+        "english": "hoot hoot; tu-whit tu-whoo"
+    },
+    {
+        "japanese": "ぴちゃん",
+        "english": "splash"
+    },
+    {
+        "japanese": "キンキラ",
+        "english": "gaudy; flashy; shiny"
+    },
+    {
+        "japanese": "ちんと",
+        "english": "calmly; coolly; primly"
+    },
+    {
+        "japanese": "レロレロ",
+        "english": "slurring (of speech); indistinctly; inarticulately"
+    },
+    {
+        "japanese": "ぴちゃん",
+        "english": "splash"
+    },
+    {
+        "japanese": "キンキラ",
+        "english": "gaudy; flashy; shiny"
+    },
+    {
+        "japanese": "ちんと",
+        "english": "calmly; coolly; primly"
+    },
+    {
+        "japanese": "レロレロ",
+        "english": "slurring (of speech); indistinctly; inarticulately"
+    },
+    {
+        "japanese": "ちょろっと",
+        "english": "quickly; briefly"
+    },
+    {
+        "japanese": "にやっ",
+        "english": "smirkingly; broadly (grinning)"
+    },
+    {
+        "japanese": "すっぱり",
+        "english": "completely (quitting, etc.); entirely; thoroughly; totally; wholly; resolutely; decisively; flatly; firmly; without hesitation"
+    },
+    {
+        "japanese": "すぱっと",
+        "english": "completely (quitting, etc.); entirely; thoroughly; totally; wholly; without hesitation"
+    },
+    {
+        "japanese": "しっとり",
+        "english": "damp; moist; (slightly) wet"
+    },
+    {
+        "japanese": "もっさり",
+        "english": "slow; sluggish; dim-witted"
+    },
+    {
+        "japanese": "もふもふ",
+        "english": "soft to the touch (e.g. fur, feathers); fluffy"
+    },
+    {
+        "japanese": "デクデク",
+        "english": "plump; fat"
+    },
+    {
+        "japanese": "がん",
+        "english": "with a thump; with a thud; with a bang"
+    },
+    {
+        "japanese": "シュッシュッ",
+        "english": "choo-choo; chug-chug; chuff-chuff; hiss-hiss"
+    },
+    {
+        "japanese": "てこてこ",
+        "english": "sound of walking"
+    },
+    {
+        "japanese": "にゅるにゅる",
+        "english": "slithering; wriggling"
+    },
+    {
+        "japanese": "どしり",
+        "english": "sound of a heavy object falling"
+    },
+    {
+        "japanese": "ホーホケキョ",
+        "english": "hooo-hokekyo (call of the Japanese bush warbler); chirp-chirp; tweet-tweet"
+    },
+    {
+        "japanese": "どかり",
+        "english": "falling heavily"
+    },
+    {
+        "japanese": "ぽちゃり",
+        "english": "splash; splosh"
+    },
+    {
+        "japanese": "もっさり",
+        "english": "slow; sluggish; dim-witted"
+    },
+    {
+        "japanese": "もふもふ",
+        "english": "soft to the touch (e.g. fur, feathers); fluffy"
+    },
+    {
+        "japanese": "デクデク",
+        "english": "plump; fat"
+    },
+    {
+        "japanese": "がん",
+        "english": "with a thump; with a thud; with a bang"
+    },
+    {
+        "japanese": "ほんわり",
+        "english": "warm and gentle (mood); warm glow"
+    },
+    {
+        "japanese": "ふっくら",
+        "english": "fully; luxuriantly; fluffy; plump; soft and full"
+    },
+    {
+        "japanese": "泡々",
+        "english": "bubbly; foamy; frothy"
+    },
+    {
+        "japanese": "カシャリ",
+        "english": "click"
+    },
+    {
+        "japanese": "ひゅっと",
+        "english": "(with a) whizz; hiss; zip; whistle"
+    },
+    {
+        "japanese": "シュッシュッ",
+        "english": "choo-choo; chug-chug; chuff-chuff; hiss-hiss"
+    },
+    {
+        "japanese": "てこてこ",
+        "english": "sound of walking"
+    },
+    {
+        "japanese": "にゅるにゅる",
+        "english": "slithering; wriggling"
+    },
+    {
+        "japanese": "どしり",
+        "english": "sound of a heavy object falling"
+    },
+    {
+        "japanese": "ホーホケキョ",
+        "english": "hooo-hokekyo (call of the Japanese bush warbler); chirp-chirp; tweet-tweet"
+    },
+    {
+        "japanese": "どかり",
+        "english": "falling heavily"
+    },
+    {
+        "japanese": "ぽちゃり",
+        "english": "splash; splosh"
+    },
+    {
+        "japanese": "シュンッ",
+        "english": "with a whoosh; quickly (moving); instantaneously"
+    },
+    {
+        "japanese": "ぐらり",
+        "english": "shaking violently"
+    },
+    {
+        "japanese": "しっちゃかめっちゃか",
+        "english": "in a terrible mess; in complete disorder; chaotic"
+    },
+    {
+        "japanese": "ギシギシアンアン",
+        "english": "sex; sexual intercourse; sound of bed creaking and woman moaning"
+    },
+    {
+        "japanese": "シュンと",
+        "english": "dejectedly; dispiritedly; despondently; gloomily"
+    },
+    {
+        "japanese": "シュッシュッ",
+        "english": "choo-choo; chug-chug; chuff-chuff; hiss-hiss"
+    },
+    {
+        "japanese": "ネチネチ",
+        "english": "stickily; glutinously"
+    },
+    {
+        "japanese": "てこてこ",
+        "english": "sound of walking"
+    },
+    {
+        "japanese": "にゅるにゅる",
+        "english": "slithering; wriggling"
+    },
+    {
+        "japanese": "どしり",
+        "english": "sound of a heavy object falling"
+    },
+    {
+        "japanese": "ホーホケキョ",
+        "english": "hooo-hokekyo (call of the Japanese bush warbler); chirp-chirp; tweet-tweet"
+    },
+    {
+        "japanese": "のたり",
+        "english": "relaxedly; leisurely; slowly; calmly"
+    },
+    {
+        "japanese": "どかり",
+        "english": "falling heavily"
+    },
+    {
+        "japanese": "ほっこり",
+        "english": "warm and fluffy; soft"
+    },
+    {
+        "japanese": "ぽちゃり",
+        "english": "splash; splosh"
+    },
+    {
+        "japanese": "シュンッ",
+        "english": "with a whoosh; quickly (moving); instantaneously"
+    },
+    {
+        "japanese": "ぐらり",
+        "english": "shaking violently"
+    },
+    {
+        "japanese": "しっちゃかめっちゃか",
+        "english": "in a terrible mess; in complete disorder; chaotic"
+    },
+    {
+        "japanese": "ギシギシアンアン",
+        "english": "sex; sexual intercourse; sound of bed creaking and woman moaning"
+    },
+    {
+        "japanese": "ぷにぷに",
+        "english": "squishy; springy; bouncy"
+    },
+    {
+        "japanese": "ぶるん",
+        "english": "with a vroom; with a sudden shaking"
+    },
+    {
+        "japanese": "グチャリ",
+        "english": "with a squish; with a splat"
+    },
+    {
+        "japanese": "どんぶりこ",
+        "english": "plop; splash"
+    },
+    {
+        "japanese": "ビュンビュン",
+        "english": "with a whoosh; with a swish; with a whirl; whizzing by"
+    },
+    {
+        "japanese": "しっちゃかめっちゃか",
+        "english": "in a terrible mess; in complete disorder; chaotic"
+    },
+    {
+        "japanese": "パリパリ",
+        "english": "crispy; crunchy"
+    },
+    {
+        "japanese": "ぷかり",
+        "english": "puffing (e.g. cigarette smoke)"
+    },
+    {
+        "japanese": "ぼそっと",
+        "english": "absent-mindedly; absently; idly; blankly; vacantly"
+    },
+    {
+        "japanese": "ざぶざぶ",
+        "english": "splashing; sloshing"
+    },
+    {
+        "japanese": "ズボッと",
+        "english": "something going right into or coming right out of a place where it fits snugly"
+    },
+    {
+        "japanese": "ギシギシアンアン",
+        "english": "sex; sexual intercourse; sound of bed creaking and woman moaning"
+    },
+    {
+        "japanese": "ぷにぷに",
+        "english": "squishy; springy; bouncy"
+    },
+    {
+        "japanese": "ぶるん",
+        "english": "with a vroom; with a sudden shaking"
+    },
+    {
+        "japanese": "グチャリ",
+        "english": "with a squish; with a splat"
+    },
+    {
+        "japanese": "どんぶりこ",
+        "english": "plop; splash"
+    },
+    {
+        "japanese": "ビュンビュン",
+        "english": "with a whoosh; with a swish; with a whirl; whizzing by"
+    },
+    {
+        "japanese": "ぺこん",
+        "english": "sound of thin metal or plastic surface caving in and springing back"
+    },
+    {
+        "japanese": "キュルキュル",
+        "english": "squeaking (of an engine, skis on snow, etc.)"
+    },
+    {
+        "japanese": "ふわもこ",
+        "english": "thick and fluffy; soft and lumpy"
+    },
+    {
+        "japanese": "ぎいとん",
+        "english": "squeaking or creaking (followed by a thump)"
+    },
+    {
+        "japanese": "ハフハフ",
+        "english": "alternately sucking in and blowing out air through one's mouth while eating something hot (in order to cool it down)"
+    },
+    {
+        "japanese": "ぐうぐう",
+        "english": "fast (asleep); snoring or grumbling sound"
+    },
+    {
+        "japanese": "でかでか",
+        "english": "in a big way"
+    },
+    {
+        "japanese": "ぱかっと",
+        "english": "with one's mouth wide open; gapingly"
+    },
+    {
+        "japanese": "ぬめっと",
+        "english": "glistening; shiny; sleek; slippery"
+    },
+    {
+        "japanese": "ぱったり",
+        "english": "unexpectedly; suddenly; abruptly"
+    },
+    {
+        "japanese": "ペンペン",
+        "english": "with a smack; with a spank"
+    }
+]
